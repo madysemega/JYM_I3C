@@ -1,0 +1,2489 @@
+,City,Property_Type,Zero Momentum Percentage
+0,Addison,Condo,1.7543859649122806
+1,Addison,Multi-Family (2-4 Unit),63.1578947368421
+2,Addison,Single Family Residential,1.7543859649122806
+3,Addison,Townhouse,1.7543859649122806
+4,Akron,Condo,1.7543859649122806
+5,Akron,Multi-Family (2-4 Unit),1.7543859649122806
+6,Akron,Single Family Residential,1.7543859649122806
+7,Akron,Townhouse,19.298245614035086
+8,Alameda,Condo,1.7543859649122806
+9,Alameda,Multi-Family (2-4 Unit),1.7543859649122806
+10,Alameda,Single Family Residential,1.7543859649122806
+11,Alameda,Townhouse,1.7543859649122806
+12,Albany,Condo,67.2514619883041
+13,Albany,Multi-Family (2-4 Unit),67.2514619883041
+14,Albany,Single Family Residential,67.2514619883041
+15,Albany,Townhouse,67.2514619883041
+16,Alexandria,Condo,50.877192982456144
+17,Alexandria,Multi-Family (2-4 Unit),57.01754385964912
+18,Alexandria,Single Family Residential,50.877192982456144
+19,Alexandria,Townhouse,50.877192982456144
+20,Aliso Viejo,Condo,1.7543859649122806
+21,Aliso Viejo,Single Family Residential,1.7543859649122806
+22,Aliso Viejo,Townhouse,1.7543859649122806
+23,Allentown,Condo,43.859649122807014
+24,Allentown,Multi-Family (2-4 Unit),1.7543859649122806
+25,Allentown,Single Family Residential,1.7543859649122806
+26,Allentown,Townhouse,1.7543859649122806
+27,Alpharetta,Condo,1.7543859649122806
+28,Alpharetta,Multi-Family (2-4 Unit),80.7017543859649
+29,Alpharetta,Single Family Residential,1.7543859649122806
+30,Alpharetta,Townhouse,1.7543859649122806
+31,Altamonte Springs,Condo,1.7543859649122806
+32,Altamonte Springs,Multi-Family (2-4 Unit),82.45614035087719
+33,Altamonte Springs,Single Family Residential,1.7543859649122806
+34,Altamonte Springs,Townhouse,1.7543859649122806
+35,Amarillo,Multi-Family (2-4 Unit),1.7543859649122806
+36,Amarillo,Single Family Residential,1.7543859649122806
+37,Ames,Condo,1.7543859649122806
+38,Ames,Multi-Family (2-4 Unit),10.526315789473683
+39,Ames,Single Family Residential,1.7543859649122806
+40,Ames,Townhouse,2.1739130434782608
+41,Amherst,Condo,1.7857142857142856
+42,Amherst,Multi-Family (2-4 Unit),1.7857142857142856
+43,Amherst,Single Family Residential,1.7857142857142856
+44,Amherst,Townhouse,1.7857142857142856
+45,Anaheim,Condo,1.7543859649122806
+46,Anaheim,Multi-Family (2-4 Unit),1.7543859649122806
+47,Anaheim,Single Family Residential,1.7543859649122806
+48,Anaheim,Townhouse,1.7543859649122806
+49,Anchorage,Condo,1.7543859649122806
+50,Anchorage,Multi-Family (2-4 Unit),1.7543859649122806
+51,Anchorage,Single Family Residential,1.7543859649122806
+52,Anderson,Condo,1.7543859649122806
+53,Anderson,Multi-Family (2-4 Unit),3.508771929824561
+54,Anderson,Single Family Residential,1.7543859649122806
+55,Anderson,Townhouse,5.263157894736842
+56,Andover,Condo,1.7543859649122806
+57,Andover,Multi-Family (2-4 Unit),7.017543859649122
+58,Andover,Single Family Residential,1.7543859649122806
+59,Andover,Townhouse,1.7543859649122806
+60,Ankeny,Condo,1.7543859649122806
+61,Ankeny,Multi-Family (2-4 Unit),42.10526315789473
+62,Ankeny,Single Family Residential,1.7543859649122806
+63,Ankeny,Townhouse,6.0
+64,Annapolis,Condo,1.7543859649122806
+65,Annapolis,Multi-Family (2-4 Unit),71.9298245614035
+66,Annapolis,Single Family Residential,1.7543859649122806
+67,Annapolis,Townhouse,1.7543859649122806
+68,Antioch,Condo,1.7543859649122806
+69,Antioch,Multi-Family (2-4 Unit),5.263157894736842
+70,Antioch,Single Family Residential,1.7543859649122806
+71,Antioch,Townhouse,1.7543859649122806
+72,Apopka,Condo,1.7543859649122806
+73,Apopka,Multi-Family (2-4 Unit),35.08771929824561
+74,Apopka,Single Family Residential,1.7543859649122806
+75,Apopka,Townhouse,1.7543859649122806
+76,Appleton,Condo,1.7543859649122806
+77,Appleton,Multi-Family (2-4 Unit),1.7543859649122806
+78,Appleton,Single Family Residential,1.7543859649122806
+79,Appleton,Townhouse,12.280701754385964
+80,Arcadia,Condo,1.7543859649122806
+81,Arcadia,Multi-Family (2-4 Unit),3.508771929824561
+82,Arcadia,Single Family Residential,1.7543859649122806
+83,Arcadia,Townhouse,1.7543859649122806
+84,Arlington,Condo,50.877192982456144
+85,Arlington,Multi-Family (2-4 Unit),50.877192982456144
+86,Arlington,Single Family Residential,50.877192982456144
+87,Arlington,Townhouse,50.877192982456144
+88,Arlington Heights,Condo,1.7543859649122806
+89,Arlington Heights,Multi-Family (2-4 Unit),40.35087719298245
+90,Arlington Heights,Single Family Residential,1.7543859649122806
+91,Arlington Heights,Townhouse,1.7543859649122806
+92,Arvada,Condo,1.7543859649122806
+93,Arvada,Multi-Family (2-4 Unit),21.052631578947366
+94,Arvada,Single Family Residential,1.7543859649122806
+95,Arvada,Townhouse,1.7543859649122806
+96,Ashburn,Condo,1.7543859649122806
+97,Ashburn,Single Family Residential,1.7543859649122806
+98,Ashburn,Townhouse,1.7543859649122806
+99,Asheville,Condo,1.7543859649122806
+100,Asheville,Multi-Family (2-4 Unit),8.771929824561402
+101,Asheville,Single Family Residential,1.7543859649122806
+102,Asheville,Townhouse,10.526315789473683
+103,Athens,Condo,7.017543859649122
+104,Athens,Multi-Family (2-4 Unit),22.807017543859647
+105,Athens,Single Family Residential,1.7543859649122806
+106,Athens,Townhouse,7.017543859649122
+107,Atlanta,Condo,1.7543859649122806
+108,Atlanta,Multi-Family (2-4 Unit),1.7543859649122806
+109,Atlanta,Single Family Residential,1.7543859649122806
+110,Atlanta,Townhouse,1.7543859649122806
+111,Auburn,Condo,50.877192982456144
+112,Auburn,Multi-Family (2-4 Unit),50.877192982456144
+113,Auburn,Single Family Residential,50.877192982456144
+114,Auburn,Townhouse,50.877192982456144
+115,Aurora,Condo,50.877192982456144
+116,Aurora,Multi-Family (2-4 Unit),51.75438596491229
+117,Aurora,Single Family Residential,50.877192982456144
+118,Aurora,Townhouse,50.877192982456144
+119,Austin,Condo,1.7543859649122806
+120,Austin,Multi-Family (2-4 Unit),1.7543859649122806
+121,Austin,Single Family Residential,1.7543859649122806
+122,Austin,Townhouse,1.7543859649122806
+123,Bakersfield,Condo,1.7543859649122806
+124,Bakersfield,Multi-Family (2-4 Unit),1.7543859649122806
+125,Bakersfield,Single Family Residential,1.7543859649122806
+126,Bakersfield,Townhouse,35.08771929824561
+127,Baltimore,Condo,1.7543859649122806
+128,Baltimore,Multi-Family (2-4 Unit),1.7543859649122806
+129,Baltimore,Single Family Residential,1.7543859649122806
+130,Baltimore,Townhouse,1.7543859649122806
+131,Baton Rouge,Condo,1.7543859649122806
+132,Baton Rouge,Multi-Family (2-4 Unit),1.7543859649122806
+133,Baton Rouge,Single Family Residential,1.7543859649122806
+134,Baton Rouge,Townhouse,1.7543859649122806
+135,Battle Creek,Condo,3.508771929824561
+136,Battle Creek,Multi-Family (2-4 Unit),5.263157894736842
+137,Battle Creek,Single Family Residential,1.7543859649122806
+138,Beaumont,Condo,1.7543859649122806
+139,Beaumont,Multi-Family (2-4 Unit),29.82456140350877
+140,Beaumont,Single Family Residential,1.7543859649122806
+141,Beaumont,Townhouse,15.789473684210526
+142,Beaverton,Condo,1.7543859649122806
+143,Beaverton,Multi-Family (2-4 Unit),17.543859649122805
+144,Beaverton,Single Family Residential,1.7543859649122806
+145,Beaverton,Townhouse,1.7543859649122806
+146,Bedford,Condo,50.877192982456144
+147,Bedford,Multi-Family (2-4 Unit),50.877192982456144
+148,Bedford,Single Family Residential,50.877192982456144
+149,Bedford,Townhouse,50.877192982456144
+150,Bel Air,Condo,1.7543859649122806
+151,Bel Air,Multi-Family (2-4 Unit),89.47368421052632
+152,Bel Air,Single Family Residential,1.7543859649122806
+153,Bel Air,Townhouse,1.7543859649122806
+154,Belleville,Condo,1.7543859649122806
+155,Belleville,Multi-Family (2-4 Unit),3.508771929824561
+156,Belleville,Single Family Residential,1.7543859649122806
+157,Belleville,Townhouse,56.14035087719298
+158,Bellevue,Condo,50.877192982456144
+159,Bellevue,Multi-Family (2-4 Unit),51.75438596491229
+160,Bellevue,Single Family Residential,50.877192982456144
+161,Bellevue,Townhouse,50.877192982456144
+162,Bellingham,Condo,1.7543859649122806
+163,Bellingham,Multi-Family (2-4 Unit),1.7543859649122806
+164,Bellingham,Single Family Residential,1.7543859649122806
+165,Bellingham,Townhouse,1.7543859649122806
+166,Bend,Condo,1.7543859649122806
+167,Bend,Multi-Family (2-4 Unit),1.7543859649122806
+168,Bend,Single Family Residential,1.7543859649122806
+169,Bend,Townhouse,1.7543859649122806
+170,Berkeley,Condo,1.7543859649122806
+171,Berkeley,Multi-Family (2-4 Unit),1.7543859649122806
+172,Berkeley,Single Family Residential,1.7543859649122806
+173,Berkeley,Townhouse,35.08771929824561
+174,Bethesda,Condo,1.7543859649122806
+175,Bethesda,Single Family Residential,1.7543859649122806
+176,Bethesda,Townhouse,1.7543859649122806
+177,Bethlehem,Condo,12.280701754385964
+178,Bethlehem,Multi-Family (2-4 Unit),1.7543859649122806
+179,Bethlehem,Single Family Residential,1.7543859649122806
+180,Bethlehem,Townhouse,1.7543859649122806
+181,Beverly,Condo,1.7543859649122806
+182,Beverly,Multi-Family (2-4 Unit),1.7543859649122806
+183,Beverly,Single Family Residential,1.7543859649122806
+184,Beverly,Townhouse,1.7543859649122806
+185,Billerica,Condo,1.7543859649122806
+186,Billerica,Multi-Family (2-4 Unit),28.07017543859649
+187,Billerica,Single Family Residential,1.7543859649122806
+188,Billerica,Townhouse,1.7543859649122806
+189,Billings,Condo,1.7543859649122806
+190,Billings,Multi-Family (2-4 Unit),1.7543859649122806
+191,Billings,Single Family Residential,1.7543859649122806
+192,Billings,Townhouse,1.7543859649122806
+193,Birmingham,Condo,1.7543859649122806
+194,Birmingham,Multi-Family (2-4 Unit),3.508771929824561
+195,Birmingham,Single Family Residential,1.7543859649122806
+196,Birmingham,Townhouse,1.7543859649122806
+197,Bismarck,Condo,1.8181818181818181
+198,Bismarck,Multi-Family (2-4 Unit),5.263157894736842
+199,Bismarck,Single Family Residential,1.7543859649122806
+200,Bismarck,Townhouse,1.8181818181818181
+201,Bloomfield Hills,Condo,1.7543859649122806
+202,Bloomfield Hills,Single Family Residential,1.7543859649122806
+203,Bloomington,Condo,67.2514619883041
+204,Bloomington,Multi-Family (2-4 Unit),67.2514619883041
+205,Bloomington,Single Family Residential,67.2514619883041
+206,Bloomington,Townhouse,67.2514619883041
+207,Boca Raton,Condo,1.7543859649122806
+208,Boca Raton,Multi-Family (2-4 Unit),21.052631578947366
+209,Boca Raton,Single Family Residential,1.7543859649122806
+210,Boca Raton,Townhouse,1.7543859649122806
+211,Boise,Condo,1.7543859649122806
+212,Boise,Multi-Family (2-4 Unit),3.508771929824561
+213,Boise,Single Family Residential,1.7543859649122806
+214,Boise,Townhouse,1.7543859649122806
+215,Bolingbrook,Condo,1.7543859649122806
+216,Bolingbrook,Single Family Residential,1.7543859649122806
+217,Bolingbrook,Townhouse,1.7543859649122806
+218,Boston,Condo,1.7543859649122806
+219,Boston,Multi-Family (2-4 Unit),1.7543859649122806
+220,Boston,Single Family Residential,1.7543859649122806
+221,Boston,Townhouse,1.7543859649122806
+222,Bothell,Condo,1.7543859649122806
+223,Bothell,Multi-Family (2-4 Unit),68.42105263157895
+224,Bothell,Single Family Residential,1.7543859649122806
+225,Bothell,Townhouse,1.7543859649122806
+226,Boulder,Condo,1.7543859649122806
+227,Boulder,Multi-Family (2-4 Unit),7.017543859649122
+228,Boulder,Single Family Residential,1.7543859649122806
+229,Boulder,Townhouse,1.7543859649122806
+230,Bowie,Condo,1.7543859649122806
+231,Bowie,Single Family Residential,1.7543859649122806
+232,Bowie,Townhouse,1.7543859649122806
+233,Bowling Green,Condo,5.263157894736842
+234,Bowling Green,Multi-Family (2-4 Unit),7.017543859649122
+235,Bowling Green,Single Family Residential,1.7543859649122806
+236,Boynton Beach,Condo,1.7543859649122806
+237,Boynton Beach,Multi-Family (2-4 Unit),21.052631578947366
+238,Boynton Beach,Single Family Residential,1.7543859649122806
+239,Boynton Beach,Townhouse,1.7543859649122806
+240,Bozeman,Condo,1.7543859649122806
+241,Bozeman,Multi-Family (2-4 Unit),24.561403508771928
+242,Bozeman,Single Family Residential,1.7543859649122806
+243,Bozeman,Townhouse,1.7543859649122806
+244,Bradenton,Condo,1.7543859649122806
+245,Bradenton,Multi-Family (2-4 Unit),1.7543859649122806
+246,Bradenton,Single Family Residential,1.7543859649122806
+247,Bradenton,Townhouse,1.7543859649122806
+248,Braintree,Condo,1.7543859649122806
+249,Braintree,Multi-Family (2-4 Unit),5.263157894736842
+250,Braintree,Single Family Residential,1.7543859649122806
+251,Braintree,Townhouse,3.508771929824561
+252,Brandon,Condo,1.7543859649122806
+253,Brandon,Multi-Family (2-4 Unit),15.789473684210526
+254,Brandon,Single Family Residential,1.7543859649122806
+255,Brandon,Townhouse,1.7543859649122806
+256,Brea,Condo,3.508771929824561
+257,Brea,Multi-Family (2-4 Unit),56.14035087719298
+258,Brea,Single Family Residential,1.7543859649122806
+259,Brea,Townhouse,3.508771929824561
+260,Bremerton,Condo,1.7543859649122806
+261,Bremerton,Multi-Family (2-4 Unit),1.7543859649122806
+262,Bremerton,Single Family Residential,1.7543859649122806
+263,Bremerton,Townhouse,17.543859649122805
+264,Brentwood,Condo,1.7543859649122806
+265,Brentwood,Multi-Family (2-4 Unit),5.263157894736842
+266,Brentwood,Single Family Residential,1.7543859649122806
+267,Brentwood,Townhouse,1.7543859649122806
+268,Bridgeport,Condo,1.7543859649122806
+269,Bridgeport,Multi-Family (2-4 Unit),1.7543859649122806
+270,Bridgeport,Single Family Residential,1.7543859649122806
+271,Bridgeport,Townhouse,1.7543859649122806
+272,Bridgeton,Condo,1.7543859649122806
+273,Bridgeton,Multi-Family (2-4 Unit),7.017543859649122
+274,Bridgeton,Single Family Residential,1.7543859649122806
+275,Bridgeton,Townhouse,7.017543859649122
+276,Bridgewater,Condo,1.7543859649122806
+277,Bridgewater,Multi-Family (2-4 Unit),17.543859649122805
+278,Bridgewater,Single Family Residential,1.7543859649122806
+279,Bridgewater,Townhouse,3.508771929824561
+280,Brighton,Condo,50.877192982456144
+281,Brighton,Multi-Family (2-4 Unit),63.1578947368421
+282,Brighton,Single Family Residential,50.877192982456144
+283,Brighton,Townhouse,50.877192982456144
+284,Brockton,Condo,1.7543859649122806
+285,Brockton,Multi-Family (2-4 Unit),1.7543859649122806
+286,Brockton,Single Family Residential,1.7543859649122806
+287,Brockton,Townhouse,3.508771929824561
+288,Brookfield,Condo,1.7543859649122806
+289,Brookfield,Multi-Family (2-4 Unit),5.263157894736842
+290,Brookfield,Single Family Residential,1.7543859649122806
+291,Brookfield,Townhouse,5.263157894736842
+292,Brookline,Condo,1.7543859649122806
+293,Brookline,Multi-Family (2-4 Unit),12.280701754385964
+294,Brookline,Single Family Residential,1.7543859649122806
+295,Brookline,Townhouse,1.7543859649122806
+296,Broomfield,Condo,1.7543859649122806
+297,Broomfield,Multi-Family (2-4 Unit),77.19298245614034
+298,Broomfield,Single Family Residential,1.7543859649122806
+299,Broomfield,Townhouse,1.7543859649122806
+300,Bryan,Condo,1.7543859649122806
+301,Bryan,Multi-Family (2-4 Unit),3.508771929824561
+302,Bryan,Single Family Residential,1.7543859649122806
+303,Bryan,Townhouse,1.7543859649122806
+304,Buena Park,Condo,3.508771929824561
+305,Buena Park,Multi-Family (2-4 Unit),28.07017543859649
+306,Buena Park,Single Family Residential,1.7543859649122806
+307,Buena Park,Townhouse,1.7543859649122806
+308,Buffalo,Condo,1.7543859649122806
+309,Buffalo,Multi-Family (2-4 Unit),1.7543859649122806
+310,Buffalo,Single Family Residential,1.7543859649122806
+311,Buffalo,Townhouse,1.7543859649122806
+312,Buffalo Grove,Condo,1.7543859649122806
+313,Buffalo Grove,Single Family Residential,1.7543859649122806
+314,Buffalo Grove,Townhouse,1.7543859649122806
+315,Burbank,Condo,1.7543859649122806
+316,Burbank,Multi-Family (2-4 Unit),1.7543859649122806
+317,Burbank,Single Family Residential,1.7543859649122806
+318,Burbank,Townhouse,1.7543859649122806
+319,Burlington,Condo,67.2514619883041
+320,Burlington,Multi-Family (2-4 Unit),67.2514619883041
+321,Burlington,Single Family Residential,67.2514619883041
+322,Burlington,Townhouse,67.2514619883041
+323,Burnsville,Condo,1.7543859649122806
+324,Burnsville,Multi-Family (2-4 Unit),24.561403508771928
+325,Burnsville,Single Family Residential,1.7543859649122806
+326,Burnsville,Townhouse,1.7543859649122806
+327,Camarillo,Condo,1.7543859649122806
+328,Camarillo,Multi-Family (2-4 Unit),63.1578947368421
+329,Camarillo,Single Family Residential,1.7543859649122806
+330,Camarillo,Townhouse,1.7543859649122806
+331,Cambridge,Condo,1.7543859649122806
+332,Cambridge,Multi-Family (2-4 Unit),1.7543859649122806
+333,Cambridge,Single Family Residential,1.7543859649122806
+334,Cambridge,Townhouse,1.7543859649122806
+335,Campbell,Condo,1.7543859649122806
+336,Campbell,Multi-Family (2-4 Unit),5.263157894736842
+337,Campbell,Single Family Residential,1.7543859649122806
+338,Campbell,Townhouse,1.7543859649122806
+339,Canton,Condo,50.877192982456144
+340,Canton,Multi-Family (2-4 Unit),50.877192982456144
+341,Canton,Single Family Residential,50.877192982456144
+342,Canton,Townhouse,50.877192982456144
+343,Cape Coral,Condo,1.7543859649122806
+344,Cape Coral,Multi-Family (2-4 Unit),1.7543859649122806
+345,Cape Coral,Single Family Residential,1.7543859649122806
+346,Cape Coral,Townhouse,3.508771929824561
+347,Carlsbad,Condo,1.7543859649122806
+348,Carlsbad,Multi-Family (2-4 Unit),5.263157894736842
+349,Carlsbad,Single Family Residential,1.7543859649122806
+350,Carlsbad,Townhouse,1.7543859649122806
+351,Carmel,Condo,1.7543859649122806
+352,Carmel,Multi-Family (2-4 Unit),12.280701754385964
+353,Carmel,Single Family Residential,1.7543859649122806
+354,Carmel,Townhouse,40.35087719298245
+355,Carol Stream,Condo,3.508771929824561
+356,Carol Stream,Single Family Residential,1.7543859649122806
+357,Carol Stream,Townhouse,1.7543859649122806
+358,Carrollton,Condo,1.7543859649122806
+359,Carrollton,Multi-Family (2-4 Unit),5.263157894736842
+360,Carrollton,Single Family Residential,1.7543859649122806
+361,Carrollton,Townhouse,1.7543859649122806
+362,Carson,Condo,1.7543859649122806
+363,Carson,Multi-Family (2-4 Unit),10.526315789473683
+364,Carson,Single Family Residential,1.7543859649122806
+365,Carson,Townhouse,1.7543859649122806
+366,Carson City,Condo,8.771929824561402
+367,Carson City,Multi-Family (2-4 Unit),5.263157894736842
+368,Carson City,Single Family Residential,1.7543859649122806
+369,Carson City,Townhouse,1.7543859649122806
+370,Cary,Condo,1.7543859649122806
+371,Cary,Multi-Family (2-4 Unit),22.807017543859647
+372,Cary,Single Family Residential,1.7543859649122806
+373,Cary,Townhouse,1.7543859649122806
+374,Castle Rock,Condo,1.7543859649122806
+375,Castle Rock,Multi-Family (2-4 Unit),68.42105263157895
+376,Castle Rock,Single Family Residential,1.7543859649122806
+377,Castle Rock,Townhouse,1.7543859649122806
+378,Cedar Rapids,Condo,1.7543859649122806
+379,Cedar Rapids,Multi-Family (2-4 Unit),1.7543859649122806
+380,Cedar Rapids,Single Family Residential,1.7543859649122806
+381,Chandler,Condo,1.7543859649122806
+382,Chandler,Multi-Family (2-4 Unit),59.64912280701754
+383,Chandler,Single Family Residential,1.7543859649122806
+384,Chandler,Townhouse,1.7543859649122806
+385,Chantilly,Condo,3.508771929824561
+386,Chantilly,Single Family Residential,1.7543859649122806
+387,Chantilly,Townhouse,1.7543859649122806
+388,Chapel Hill,Condo,1.7543859649122806
+389,Chapel Hill,Multi-Family (2-4 Unit),38.59649122807017
+390,Chapel Hill,Single Family Residential,1.7543859649122806
+391,Chapel Hill,Townhouse,1.7543859649122806
+392,Charleston,Condo,50.877192982456144
+393,Charleston,Multi-Family (2-4 Unit),50.877192982456144
+394,Charleston,Single Family Residential,50.877192982456144
+395,Charleston,Townhouse,50.877192982456144
+396,Charlotte,Condo,1.7543859649122806
+397,Charlotte,Multi-Family (2-4 Unit),1.7543859649122806
+398,Charlotte,Single Family Residential,1.7543859649122806
+399,Charlotte,Townhouse,1.7543859649122806
+400,Charlottesville,Condo,1.7543859649122806
+401,Charlottesville,Multi-Family (2-4 Unit),14.035087719298245
+402,Charlottesville,Single Family Residential,1.7543859649122806
+403,Charlottesville,Townhouse,1.7543859649122806
+404,Chelmsford,Condo,1.7543859649122806
+405,Chelmsford,Multi-Family (2-4 Unit),21.052631578947366
+406,Chelmsford,Single Family Residential,1.7543859649122806
+407,Chelmsford,Townhouse,1.7543859649122806
+408,Cherry Hill,Condo,31.57894736842105
+409,Cherry Hill,Single Family Residential,1.7543859649122806
+410,Cherry Hill,Townhouse,1.7543859649122806
+411,Chesapeake,Condo,1.7543859649122806
+412,Chesapeake,Multi-Family (2-4 Unit),1.7543859649122806
+413,Chesapeake,Single Family Residential,1.7543859649122806
+414,Chesapeake,Townhouse,1.7543859649122806
+415,Cheyenne,Condo,5.263157894736842
+416,Cheyenne,Multi-Family (2-4 Unit),8.771929824561402
+417,Cheyenne,Single Family Residential,1.7543859649122806
+418,Cheyenne,Townhouse,1.7543859649122806
+419,Chicago,Condo,1.7543859649122806
+420,Chicago,Multi-Family (2-4 Unit),1.7543859649122806
+421,Chicago,Single Family Residential,1.7543859649122806
+422,Chicago,Townhouse,1.7543859649122806
+423,Chico,Condo,1.7543859649122806
+424,Chico,Multi-Family (2-4 Unit),1.7543859649122806
+425,Chico,Single Family Residential,1.7543859649122806
+426,Chico,Townhouse,61.40350877192983
+427,Chino,Condo,1.7543859649122806
+428,Chino,Multi-Family (2-4 Unit),31.57894736842105
+429,Chino,Single Family Residential,1.7543859649122806
+430,Chino,Townhouse,1.7543859649122806
+431,Chula Vista,Condo,1.7543859649122806
+432,Chula Vista,Multi-Family (2-4 Unit),3.508771929824561
+433,Chula Vista,Single Family Residential,1.7543859649122806
+434,Chula Vista,Townhouse,1.7543859649122806
+435,Cincinnati,Condo,1.7543859649122806
+436,Cincinnati,Multi-Family (2-4 Unit),1.7543859649122806
+437,Cincinnati,Single Family Residential,1.7543859649122806
+438,Cincinnati,Townhouse,70.17543859649122
+439,Clarksville,Condo,3.508771929824561
+440,Clarksville,Multi-Family (2-4 Unit),1.7543859649122806
+441,Clarksville,Single Family Residential,1.7543859649122806
+442,Clarksville,Townhouse,3.508771929824561
+443,Clearwater,Condo,1.7543859649122806
+444,Clearwater,Multi-Family (2-4 Unit),1.7543859649122806
+445,Clearwater,Single Family Residential,1.7543859649122806
+446,Clearwater,Townhouse,1.7543859649122806
+447,Cleveland,Condo,1.7543859649122806
+448,Cleveland,Multi-Family (2-4 Unit),1.7543859649122806
+449,Cleveland,Single Family Residential,1.7543859649122806
+450,Cleveland,Townhouse,1.7543859649122806
+451,Clifton,Condo,1.7543859649122806
+452,Clifton,Multi-Family (2-4 Unit),1.7543859649122806
+453,Clifton,Single Family Residential,1.7543859649122806
+454,Clifton,Townhouse,1.7543859649122806
+455,College Station,Condo,1.7543859649122806
+456,College Station,Multi-Family (2-4 Unit),3.508771929824561
+457,College Station,Single Family Residential,1.7543859649122806
+458,College Station,Townhouse,1.7543859649122806
+459,Columbia,Condo,67.2514619883041
+460,Columbia,Multi-Family (2-4 Unit),67.2514619883041
+461,Columbia,Single Family Residential,67.2514619883041
+462,Columbia,Townhouse,67.2514619883041
+463,Columbus,Condo,67.2514619883041
+464,Columbus,Multi-Family (2-4 Unit),67.2514619883041
+465,Columbus,Single Family Residential,67.2514619883041
+466,Columbus,Townhouse,67.83625730994152
+467,Commerce City,Condo,1.7543859649122806
+468,Commerce City,Multi-Family (2-4 Unit),19.298245614035086
+469,Commerce City,Single Family Residential,1.7543859649122806
+470,Commerce City,Townhouse,1.7543859649122806
+471,Compton,Condo,17.543859649122805
+472,Compton,Multi-Family (2-4 Unit),1.7543859649122806
+473,Compton,Single Family Residential,1.7543859649122806
+474,Compton,Townhouse,14.035087719298245
+475,Concord,Condo,67.2514619883041
+476,Concord,Multi-Family (2-4 Unit),67.2514619883041
+477,Concord,Single Family Residential,67.2514619883041
+478,Concord,Townhouse,67.2514619883041
+479,Conroe,Condo,1.7543859649122806
+480,Conroe,Multi-Family (2-4 Unit),24.561403508771928
+481,Conroe,Single Family Residential,1.7543859649122806
+482,Conroe,Townhouse,1.7543859649122806
+483,Conshohocken,Condo,3.508771929824561
+484,Conshohocken,Multi-Family (2-4 Unit),50.877192982456144
+485,Conshohocken,Single Family Residential,1.7543859649122806
+486,Conshohocken,Townhouse,1.7543859649122806
+487,Conway,Condo,1.7543859649122806
+488,Conway,Multi-Family (2-4 Unit),7.017543859649122
+489,Conway,Single Family Residential,1.7543859649122806
+490,Conway,Townhouse,1.7543859649122806
+491,Conyers,Condo,28.07017543859649
+492,Conyers,Multi-Family (2-4 Unit),10.526315789473683
+493,Conyers,Single Family Residential,1.7543859649122806
+494,Conyers,Townhouse,1.7543859649122806
+495,Corona,Condo,1.7543859649122806
+496,Corona,Multi-Family (2-4 Unit),14.035087719298245
+497,Corona,Single Family Residential,1.7543859649122806
+498,Corona,Townhouse,1.7543859649122806
+499,Corvallis,Condo,3.508771929824561
+500,Corvallis,Multi-Family (2-4 Unit),8.771929824561402
+501,Corvallis,Single Family Residential,1.7543859649122806
+502,Corvallis,Townhouse,1.7543859649122806
+503,Costa Mesa,Condo,1.7543859649122806
+504,Costa Mesa,Multi-Family (2-4 Unit),1.7543859649122806
+505,Costa Mesa,Single Family Residential,1.7543859649122806
+506,Costa Mesa,Townhouse,1.7543859649122806
+507,Council Bluffs,Condo,12.280701754385964
+508,Council Bluffs,Multi-Family (2-4 Unit),8.771929824561402
+509,Council Bluffs,Single Family Residential,1.7543859649122806
+510,Council Bluffs,Townhouse,5.263157894736842
+511,Covina,Condo,1.7543859649122806
+512,Covina,Multi-Family (2-4 Unit),40.35087719298245
+513,Covina,Single Family Residential,1.7543859649122806
+514,Covina,Townhouse,1.7543859649122806
+515,Cranston,Condo,1.7543859649122806
+516,Cranston,Multi-Family (2-4 Unit),1.7543859649122806
+517,Cranston,Single Family Residential,1.7543859649122806
+518,Culver City,Condo,1.7543859649122806
+519,Culver City,Multi-Family (2-4 Unit),1.7543859649122806
+520,Culver City,Single Family Residential,1.7543859649122806
+521,Culver City,Townhouse,1.7543859649122806
+522,Cupertino,Condo,1.7543859649122806
+523,Cupertino,Multi-Family (2-4 Unit),22.807017543859647
+524,Cupertino,Single Family Residential,1.7543859649122806
+525,Cupertino,Townhouse,1.7543859649122806
+526,Cypress,Condo,1.7543859649122806
+527,Cypress,Multi-Family (2-4 Unit),56.14035087719298
+528,Cypress,Single Family Residential,1.7543859649122806
+529,Cypress,Townhouse,1.7543859649122806
+530,Dallas,Condo,1.7543859649122806
+531,Dallas,Multi-Family (2-4 Unit),1.7543859649122806
+532,Dallas,Single Family Residential,1.7543859649122806
+533,Dallas,Townhouse,1.7543859649122806
+534,Daly City,Condo,3.508771929824561
+535,Daly City,Multi-Family (2-4 Unit),21.052631578947366
+536,Daly City,Single Family Residential,1.7543859649122806
+537,Daly City,Townhouse,8.771929824561402
+538,Danbury,Condo,1.7543859649122806
+539,Danbury,Multi-Family (2-4 Unit),1.7543859649122806
+540,Danbury,Single Family Residential,1.7543859649122806
+541,Danbury,Townhouse,78.57142857142857
+542,Danvers,Condo,1.7543859649122806
+543,Danvers,Multi-Family (2-4 Unit),21.052631578947366
+544,Danvers,Single Family Residential,1.7543859649122806
+545,Danvers,Townhouse,1.7543859649122806
+546,Danville,Condo,1.7543859649122806
+547,Danville,Multi-Family (2-4 Unit),10.526315789473683
+548,Danville,Single Family Residential,1.7543859649122806
+549,Danville,Townhouse,1.7543859649122806
+550,Davenport,Condo,1.7543859649122806
+551,Davenport,Multi-Family (2-4 Unit),1.7543859649122806
+552,Davenport,Single Family Residential,1.7543859649122806
+553,Davenport,Townhouse,1.7543859649122806
+554,Dayton,Condo,1.7543859649122806
+555,Dayton,Multi-Family (2-4 Unit),1.7543859649122806
+556,Dayton,Single Family Residential,1.7543859649122806
+557,Dayton,Townhouse,3.508771929824561
+558,Daytona Beach,Condo,1.7543859649122806
+559,Daytona Beach,Multi-Family (2-4 Unit),1.7543859649122806
+560,Daytona Beach,Single Family Residential,1.7543859649122806
+561,Daytona Beach,Townhouse,1.7543859649122806
+562,Dearborn,Condo,1.7543859649122806
+563,Dearborn,Multi-Family (2-4 Unit),3.508771929824561
+564,Dearborn,Single Family Residential,1.7543859649122806
+565,Dearborn,Townhouse,42.10526315789473
+566,Decatur,Condo,67.2514619883041
+567,Decatur,Multi-Family (2-4 Unit),68.42105263157895
+568,Decatur,Single Family Residential,67.2514619883041
+569,Decatur,Townhouse,67.2514619883041
+570,Deerfield,Condo,1.7543859649122806
+571,Deerfield,Multi-Family (2-4 Unit),75.43859649122807
+572,Deerfield,Single Family Residential,1.7543859649122806
+573,Deerfield,Townhouse,3.508771929824561
+574,Deerfield Beach,Condo,1.7543859649122806
+575,Deerfield Beach,Multi-Family (2-4 Unit),12.280701754385964
+576,Deerfield Beach,Single Family Residential,1.7543859649122806
+577,Deerfield Beach,Townhouse,1.7543859649122806
+578,Delaware,Condo,1.7543859649122806
+579,Delaware,Multi-Family (2-4 Unit),12.280701754385964
+580,Delaware,Single Family Residential,1.7543859649122806
+581,Delray Beach,Condo,1.7543859649122806
+582,Delray Beach,Multi-Family (2-4 Unit),1.7543859649122806
+583,Delray Beach,Single Family Residential,1.7543859649122806
+584,Delray Beach,Townhouse,1.7543859649122806
+585,Denton,Condo,43.859649122807014
+586,Denton,Multi-Family (2-4 Unit),10.526315789473683
+587,Denton,Single Family Residential,1.7543859649122806
+588,Denton,Townhouse,3.508771929824561
+589,Denver,Condo,1.7543859649122806
+590,Denver,Multi-Family (2-4 Unit),1.7543859649122806
+591,Denver,Single Family Residential,1.7543859649122806
+592,Denver,Townhouse,1.7543859649122806
+593,Des Moines,Condo,1.7543859649122806
+594,Des Moines,Multi-Family (2-4 Unit),1.7543859649122806
+595,Des Moines,Single Family Residential,1.7543859649122806
+596,Des Moines,Townhouse,5.263157894736842
+597,Des Plaines,Condo,1.7543859649122806
+598,Des Plaines,Multi-Family (2-4 Unit),43.859649122807014
+599,Des Plaines,Single Family Residential,1.7543859649122806
+600,Des Plaines,Townhouse,1.7543859649122806
+601,Detroit,Condo,1.7543859649122806
+602,Detroit,Multi-Family (2-4 Unit),1.7543859649122806
+603,Detroit,Single Family Residential,1.7543859649122806
+604,Detroit,Townhouse,31.57894736842105
+605,Dover,Condo,1.7543859649122806
+606,Dover,Multi-Family (2-4 Unit),1.7543859649122806
+607,Dover,Single Family Residential,1.7543859649122806
+608,Dover,Townhouse,1.7543859649122806
+609,Downers Grove,Condo,1.7543859649122806
+610,Downers Grove,Multi-Family (2-4 Unit),77.19298245614034
+611,Downers Grove,Single Family Residential,1.7543859649122806
+612,Downers Grove,Townhouse,1.7543859649122806
+613,Downey,Condo,1.7543859649122806
+614,Downey,Multi-Family (2-4 Unit),7.017543859649122
+615,Downey,Single Family Residential,1.7543859649122806
+616,Downey,Townhouse,8.771929824561402
+617,Dublin,Condo,50.877192982456144
+618,Dublin,Multi-Family (2-4 Unit),75.43859649122807
+619,Dublin,Single Family Residential,50.877192982456144
+620,Dublin,Townhouse,50.877192982456144
+621,Dubuque,Condo,1.8867924528301887
+622,Dubuque,Multi-Family (2-4 Unit),7.017543859649122
+623,Dubuque,Single Family Residential,5.263157894736842
+624,Dubuque,Townhouse,1.8867924528301887
+625,Duluth,Condo,51.75438596491229
+626,Duluth,Multi-Family (2-4 Unit),77.19298245614034
+627,Duluth,Single Family Residential,50.877192982456144
+628,Duluth,Townhouse,50.877192982456144
+629,Durham,Condo,1.7543859649122806
+630,Durham,Multi-Family (2-4 Unit),1.7543859649122806
+631,Durham,Single Family Residential,1.7543859649122806
+632,Durham,Townhouse,1.7543859649122806
+633,Eagan,Condo,1.7543859649122806
+634,Eagan,Multi-Family (2-4 Unit),15.789473684210526
+635,Eagan,Single Family Residential,1.7543859649122806
+636,Eagan,Townhouse,1.7543859649122806
+637,East Hartford,Condo,1.7543859649122806
+638,East Hartford,Multi-Family (2-4 Unit),1.7543859649122806
+639,East Hartford,Single Family Residential,1.7543859649122806
+640,East Lansing,Condo,1.7543859649122806
+641,East Lansing,Multi-Family (2-4 Unit),24.561403508771928
+642,East Lansing,Single Family Residential,1.7543859649122806
+643,Easton,Condo,1.8181818181818181
+644,Easton,Multi-Family (2-4 Unit),1.8181818181818181
+645,Easton,Single Family Residential,1.8181818181818181
+646,Easton,Townhouse,1.8181818181818181
+647,Eden Prairie,Condo,1.7543859649122806
+648,Eden Prairie,Multi-Family (2-4 Unit),15.789473684210526
+649,Eden Prairie,Single Family Residential,1.7543859649122806
+650,Eden Prairie,Townhouse,1.7543859649122806
+651,El Cajon,Condo,1.7543859649122806
+652,El Cajon,Multi-Family (2-4 Unit),7.017543859649122
+653,El Cajon,Single Family Residential,1.7543859649122806
+654,El Cajon,Townhouse,1.7543859649122806
+655,El Monte,Condo,1.7543859649122806
+656,El Monte,Multi-Family (2-4 Unit),1.7543859649122806
+657,El Monte,Single Family Residential,1.7543859649122806
+658,El Monte,Townhouse,5.263157894736842
+659,El Paso,Condo,1.7543859649122806
+660,El Paso,Multi-Family (2-4 Unit),3.508771929824561
+661,El Paso,Single Family Residential,1.7543859649122806
+662,El Paso,Townhouse,1.7543859649122806
+663,El Segundo,Condo,7.017543859649122
+664,El Segundo,Multi-Family (2-4 Unit),22.807017543859647
+665,El Segundo,Single Family Residential,1.7543859649122806
+666,El Segundo,Townhouse,1.7543859649122806
+667,Elgin,Condo,1.7543859649122806
+668,Elgin,Multi-Family (2-4 Unit),29.82456140350877
+669,Elgin,Single Family Residential,1.7543859649122806
+670,Elgin,Townhouse,1.7543859649122806
+671,Elk Grove Village,Condo,1.7543859649122806
+672,Elk Grove Village,Single Family Residential,1.7543859649122806
+673,Elk Grove Village,Townhouse,3.508771929824561
+674,Elmhurst,Condo,1.7543859649122806
+675,Elmhurst,Multi-Family (2-4 Unit),82.45614035087719
+676,Elmhurst,Single Family Residential,1.7543859649122806
+677,Elmhurst,Townhouse,1.7543859649122806
+678,Elyria,Condo,1.7543859649122806
+679,Elyria,Multi-Family (2-4 Unit),1.7543859649122806
+680,Elyria,Single Family Residential,1.7543859649122806
+681,Elyria,Townhouse,49.122807017543856
+682,Encinitas,Condo,1.7543859649122806
+683,Encinitas,Multi-Family (2-4 Unit),5.263157894736842
+684,Encinitas,Single Family Residential,1.7543859649122806
+685,Encinitas,Townhouse,1.7543859649122806
+686,Englewood,Condo,1.7543859649122806
+687,Englewood,Multi-Family (2-4 Unit),1.7543859649122806
+688,Englewood,Single Family Residential,1.7543859649122806
+689,Englewood,Townhouse,1.7543859649122806
+690,Erie,Condo,1.7543859649122806
+691,Erie,Multi-Family (2-4 Unit),1.7543859649122806
+692,Erie,Single Family Residential,1.7543859649122806
+693,Erie,Townhouse,1.7543859649122806
+694,Escondido,Condo,1.7543859649122806
+695,Escondido,Multi-Family (2-4 Unit),12.280701754385964
+696,Escondido,Single Family Residential,1.7543859649122806
+697,Escondido,Townhouse,1.7543859649122806
+698,Eugene,Condo,1.7543859649122806
+699,Eugene,Multi-Family (2-4 Unit),1.7543859649122806
+700,Eugene,Single Family Residential,1.7543859649122806
+701,Eugene,Townhouse,1.7543859649122806
+702,Evanston,Condo,1.7543859649122806
+703,Evanston,Multi-Family (2-4 Unit),1.7543859649122806
+704,Evanston,Single Family Residential,1.7543859649122806
+705,Evanston,Townhouse,1.7543859649122806
+706,Evansville,Condo,1.7543859649122806
+707,Evansville,Multi-Family (2-4 Unit),1.7543859649122806
+708,Evansville,Single Family Residential,1.7543859649122806
+709,Evansville,Townhouse,60.0
+710,Everett,Condo,1.7543859649122806
+711,Everett,Multi-Family (2-4 Unit),1.7543859649122806
+712,Everett,Single Family Residential,1.7543859649122806
+713,Everett,Townhouse,1.7543859649122806
+714,Fairbanks,Condo,1.7543859649122806
+715,Fairbanks,Multi-Family (2-4 Unit),3.508771929824561
+716,Fairbanks,Single Family Residential,1.7543859649122806
+717,Fairfax,Condo,1.7543859649122806
+718,Fairfax,Multi-Family (2-4 Unit),22.807017543859647
+719,Fairfax,Single Family Residential,1.7543859649122806
+720,Fairfax,Townhouse,1.7543859649122806
+721,Fairfield,Condo,50.877192982456144
+722,Fairfield,Multi-Family (2-4 Unit),51.75438596491229
+723,Fairfield,Single Family Residential,50.877192982456144
+724,Fairfield,Townhouse,73.68421052631578
+725,Fall River,Condo,1.7543859649122806
+726,Fall River,Multi-Family (2-4 Unit),1.7543859649122806
+727,Fall River,Single Family Residential,1.7543859649122806
+728,Fall River,Townhouse,1.7543859649122806
+729,Falls Church,Condo,1.7543859649122806
+730,Falls Church,Multi-Family (2-4 Unit),92.98245614035088
+731,Falls Church,Single Family Residential,1.7543859649122806
+732,Falls Church,Townhouse,1.7543859649122806
+733,Farmington,Condo,50.877192982456144
+734,Farmington,Multi-Family (2-4 Unit),52.63157894736842
+735,Farmington,Single Family Residential,50.877192982456144
+736,Farmington,Townhouse,50.877192982456144
+737,Fayetteville,Condo,50.877192982456144
+738,Fayetteville,Multi-Family (2-4 Unit),50.877192982456144
+739,Fayetteville,Single Family Residential,50.877192982456144
+740,Fayetteville,Townhouse,50.877192982456144
+741,Federal Way,Condo,1.7543859649122806
+742,Federal Way,Multi-Family (2-4 Unit),19.298245614035086
+743,Federal Way,Single Family Residential,1.7543859649122806
+744,Federal Way,Townhouse,1.7543859649122806
+745,Findlay,Condo,1.7543859649122806
+746,Findlay,Multi-Family (2-4 Unit),3.508771929824561
+747,Findlay,Single Family Residential,1.7543859649122806
+748,Fishers,Condo,1.7543859649122806
+749,Fishers,Single Family Residential,1.7543859649122806
+750,Flagstaff,Condo,1.7543859649122806
+751,Flagstaff,Multi-Family (2-4 Unit),10.526315789473683
+752,Flagstaff,Single Family Residential,1.7543859649122806
+753,Flagstaff,Townhouse,1.7543859649122806
+754,Florence,Condo,50.877192982456144
+755,Florence,Multi-Family (2-4 Unit),52.63157894736842
+756,Florence,Single Family Residential,50.877192982456144
+757,Florence,Townhouse,50.877192982456144
+758,Folsom,Condo,1.7543859649122806
+759,Folsom,Multi-Family (2-4 Unit),26.31578947368421
+760,Folsom,Single Family Residential,1.7543859649122806
+761,Folsom,Townhouse,1.7543859649122806
+762,Fontana,Condo,3.508771929824561
+763,Fontana,Multi-Family (2-4 Unit),14.035087719298245
+764,Fontana,Single Family Residential,1.7543859649122806
+765,Fontana,Townhouse,15.789473684210526
+766,Fort Collins,Condo,1.7543859649122806
+767,Fort Collins,Multi-Family (2-4 Unit),1.7543859649122806
+768,Fort Collins,Single Family Residential,1.7543859649122806
+769,Fort Collins,Townhouse,1.7543859649122806
+770,Fort Lauderdale,Condo,1.7543859649122806
+771,Fort Lauderdale,Multi-Family (2-4 Unit),1.7543859649122806
+772,Fort Lauderdale,Single Family Residential,1.7543859649122806
+773,Fort Lauderdale,Townhouse,1.7543859649122806
+774,Fort Myers,Condo,1.7543859649122806
+775,Fort Myers,Multi-Family (2-4 Unit),1.7543859649122806
+776,Fort Myers,Single Family Residential,1.7543859649122806
+777,Fort Myers,Townhouse,1.7543859649122806
+778,Fort Pierce,Condo,1.7543859649122806
+779,Fort Pierce,Multi-Family (2-4 Unit),1.7543859649122806
+780,Fort Pierce,Single Family Residential,1.7543859649122806
+781,Fort Pierce,Townhouse,1.7543859649122806
+782,Fort Smith,Condo,5.263157894736842
+783,Fort Smith,Multi-Family (2-4 Unit),1.7543859649122806
+784,Fort Smith,Single Family Residential,1.7543859649122806
+785,Fort Smith,Townhouse,49.122807017543856
+786,Fort Wayne,Condo,1.7543859649122806
+787,Fort Wayne,Multi-Family (2-4 Unit),1.7543859649122806
+788,Fort Wayne,Single Family Residential,1.7543859649122806
+789,Fort Wayne,Townhouse,64.91228070175438
+790,Fort Worth,Condo,1.7543859649122806
+791,Fort Worth,Multi-Family (2-4 Unit),1.7543859649122806
+792,Fort Worth,Single Family Residential,1.7543859649122806
+793,Fort Worth,Townhouse,1.7543859649122806
+794,Foster City,Condo,1.7543859649122806
+795,Foster City,Single Family Residential,1.7543859649122806
+796,Foster City,Townhouse,1.7543859649122806
+797,Fountain Valley,Condo,1.7543859649122806
+798,Fountain Valley,Multi-Family (2-4 Unit),64.91228070175438
+799,Fountain Valley,Single Family Residential,1.7543859649122806
+800,Fountain Valley,Townhouse,1.7543859649122806
+801,Framingham,Condo,1.7543859649122806
+802,Framingham,Multi-Family (2-4 Unit),1.7543859649122806
+803,Framingham,Single Family Residential,1.7543859649122806
+804,Framingham,Townhouse,1.7543859649122806
+805,Frankfort,Condo,1.7543859649122806
+806,Frankfort,Multi-Family (2-4 Unit),1.7543859649122806
+807,Frankfort,Single Family Residential,1.7543859649122806
+808,Frankfort,Townhouse,1.7543859649122806
+809,Franklin,Condo,50.877192982456144
+810,Franklin,Multi-Family (2-4 Unit),50.877192982456144
+811,Franklin,Single Family Residential,50.877192982456144
+812,Franklin,Townhouse,50.877192982456144
+813,Frederick,Condo,1.7543859649122806
+814,Frederick,Multi-Family (2-4 Unit),26.31578947368421
+815,Frederick,Single Family Residential,1.7543859649122806
+816,Frederick,Townhouse,1.7543859649122806
+817,Fredericksburg,Condo,3.508771929824561
+818,Fredericksburg,Multi-Family (2-4 Unit),61.40350877192983
+819,Fredericksburg,Single Family Residential,1.7543859649122806
+820,Fredericksburg,Townhouse,1.7543859649122806
+821,Fremont,Condo,1.7543859649122806
+822,Fremont,Multi-Family (2-4 Unit),3.508771929824561
+823,Fremont,Single Family Residential,1.7543859649122806
+824,Fremont,Townhouse,1.7543859649122806
+825,Fresno,Condo,1.7543859649122806
+826,Fresno,Multi-Family (2-4 Unit),1.7543859649122806
+827,Fresno,Single Family Residential,1.7543859649122806
+828,Fresno,Townhouse,92.98245614035088
+829,Frisco,Condo,1.7543859649122806
+830,Frisco,Multi-Family (2-4 Unit),5.263157894736842
+831,Frisco,Single Family Residential,1.7543859649122806
+832,Frisco,Townhouse,1.7543859649122806
+833,Fullerton,Condo,1.7543859649122806
+834,Fullerton,Multi-Family (2-4 Unit),3.508771929824561
+835,Fullerton,Single Family Residential,1.7543859649122806
+836,Fullerton,Townhouse,1.7543859649122806
+837,Gainesville,Condo,50.877192982456144
+838,Gainesville,Multi-Family (2-4 Unit),50.877192982456144
+839,Gainesville,Single Family Residential,50.877192982456144
+840,Gainesville,Townhouse,50.877192982456144
+841,Gaithersburg,Condo,1.7543859649122806
+842,Gaithersburg,Multi-Family (2-4 Unit),100.0
+843,Gaithersburg,Single Family Residential,1.7543859649122806
+844,Gaithersburg,Townhouse,1.7543859649122806
+845,Gallatin,Condo,7.017543859649122
+846,Gallatin,Multi-Family (2-4 Unit),40.35087719298245
+847,Gallatin,Single Family Residential,1.7543859649122806
+848,Gallatin,Townhouse,3.508771929824561
+849,Galveston,Condo,1.7543859649122806
+850,Galveston,Multi-Family (2-4 Unit),1.7543859649122806
+851,Galveston,Single Family Residential,1.7543859649122806
+852,Galveston,Townhouse,1.7543859649122806
+853,Garden City,Condo,1.7543859649122806
+854,Garden City,Multi-Family (2-4 Unit),17.543859649122805
+855,Garden City,Single Family Residential,1.7543859649122806
+856,Garden City,Townhouse,1.7543859649122806
+857,Garden Grove,Condo,1.7543859649122806
+858,Garden Grove,Multi-Family (2-4 Unit),10.526315789473683
+859,Garden Grove,Single Family Residential,1.7543859649122806
+860,Garden Grove,Townhouse,1.7543859649122806
+861,Gardena,Condo,1.7543859649122806
+862,Gardena,Multi-Family (2-4 Unit),7.017543859649122
+863,Gardena,Single Family Residential,1.7543859649122806
+864,Gardena,Townhouse,1.7543859649122806
+865,Garland,Condo,1.7543859649122806
+866,Garland,Multi-Family (2-4 Unit),12.280701754385964
+867,Garland,Single Family Residential,1.7543859649122806
+868,Garland,Townhouse,1.7543859649122806
+869,Gastonia,Condo,17.543859649122805
+870,Gastonia,Multi-Family (2-4 Unit),12.280701754385964
+871,Gastonia,Single Family Residential,1.7543859649122806
+872,Gastonia,Townhouse,1.7543859649122806
+873,Georgetown,Condo,50.877192982456144
+874,Georgetown,Multi-Family (2-4 Unit),50.877192982456144
+875,Georgetown,Single Family Residential,50.877192982456144
+876,Georgetown,Townhouse,50.877192982456144
+877,Germantown,Condo,50.877192982456144
+878,Germantown,Multi-Family (2-4 Unit),75.43859649122807
+879,Germantown,Single Family Residential,50.877192982456144
+880,Germantown,Townhouse,50.877192982456144
+881,Glen Allen,Condo,1.7543859649122806
+882,Glen Allen,Single Family Residential,1.7543859649122806
+883,Glen Allen,Townhouse,1.7543859649122806
+884,Glen Burnie,Condo,1.7543859649122806
+885,Glen Burnie,Multi-Family (2-4 Unit),71.9298245614035
+886,Glen Burnie,Single Family Residential,1.7543859649122806
+887,Glen Burnie,Townhouse,1.7543859649122806
+888,Glendale,Condo,50.877192982456144
+889,Glendale,Multi-Family (2-4 Unit),50.877192982456144
+890,Glendale,Single Family Residential,50.877192982456144
+891,Glendale,Townhouse,50.877192982456144
+892,Glenview,Condo,1.7543859649122806
+893,Glenview,Single Family Residential,1.7543859649122806
+894,Glenview,Townhouse,1.7543859649122806
+895,Golden,Condo,1.7543859649122806
+896,Golden,Multi-Family (2-4 Unit),71.9298245614035
+897,Golden,Single Family Residential,1.7543859649122806
+898,Golden,Townhouse,5.263157894736842
+899,Goodyear,Condo,22.807017543859647
+900,Goodyear,Single Family Residential,1.7543859649122806
+901,Goodyear,Townhouse,1.7543859649122806
+902,Grand Junction,Condo,1.7543859649122806
+903,Grand Junction,Multi-Family (2-4 Unit),1.7543859649122806
+904,Grand Junction,Single Family Residential,3.508771929824561
+905,Grand Junction,Townhouse,1.7543859649122806
+906,Grand Prairie,Condo,19.298245614035086
+907,Grand Prairie,Multi-Family (2-4 Unit),15.789473684210526
+908,Grand Prairie,Single Family Residential,1.7543859649122806
+909,Grand Prairie,Townhouse,1.7543859649122806
+910,Grand Rapids,Condo,1.7543859649122806
+911,Grand Rapids,Multi-Family (2-4 Unit),1.7543859649122806
+912,Grand Rapids,Single Family Residential,1.7543859649122806
+913,Grand Rapids,Townhouse,35.08771929824561
+914,Greeley,Condo,1.7543859649122806
+915,Greeley,Multi-Family (2-4 Unit),1.7543859649122806
+916,Greeley,Single Family Residential,1.7543859649122806
+917,Greeley,Townhouse,3.508771929824561
+918,Green Bay,Condo,1.7543859649122806
+919,Green Bay,Multi-Family (2-4 Unit),1.7543859649122806
+920,Green Bay,Single Family Residential,1.7543859649122806
+921,Green Bay,Townhouse,12.280701754385964
+922,Greensboro,Condo,1.7543859649122806
+923,Greensboro,Multi-Family (2-4 Unit),12.280701754385964
+924,Greensboro,Single Family Residential,1.7543859649122806
+925,Greensboro,Townhouse,3.508771929824561
+926,Greenville,Condo,50.877192982456144
+927,Greenville,Multi-Family (2-4 Unit),50.877192982456144
+928,Greenville,Single Family Residential,50.877192982456144
+929,Greenville,Townhouse,50.877192982456144
+930,Greenwich,Condo,1.8181818181818181
+931,Greenwich,Multi-Family (2-4 Unit),1.8181818181818181
+932,Greenwich,Single Family Residential,1.8181818181818181
+933,Greenwich,Townhouse,100.0
+934,Gresham,Condo,1.7543859649122806
+935,Gresham,Multi-Family (2-4 Unit),1.7543859649122806
+936,Gresham,Single Family Residential,1.7543859649122806
+937,Gresham,Townhouse,1.7543859649122806
+938,Hackensack,Condo,1.7543859649122806
+939,Hackensack,Multi-Family (2-4 Unit),3.508771929824561
+940,Hackensack,Single Family Residential,1.7543859649122806
+941,Hackensack,Townhouse,35.08771929824561
+942,Hagerstown,Condo,10.526315789473683
+943,Hagerstown,Multi-Family (2-4 Unit),1.7543859649122806
+944,Hagerstown,Single Family Residential,1.7543859649122806
+945,Hagerstown,Townhouse,1.7543859649122806
+946,Hamilton,Condo,1.7543859649122806
+947,Hamilton,Multi-Family (2-4 Unit),1.7543859649122806
+948,Hamilton,Single Family Residential,1.7543859649122806
+949,Hamilton,Townhouse,26.31578947368421
+950,Hampton,Condo,1.7543859649122806
+951,Hampton,Multi-Family (2-4 Unit),5.263157894736842
+952,Hampton,Single Family Residential,1.7543859649122806
+953,Hampton,Townhouse,1.7543859649122806
+954,Hanover,Condo,3.508771929824561
+955,Hanover,Multi-Family (2-4 Unit),10.526315789473683
+956,Hanover,Single Family Residential,1.7543859649122806
+957,Hanover,Townhouse,1.7543859649122806
+958,Harrisburg,Condo,1.7543859649122806
+959,Harrisburg,Multi-Family (2-4 Unit),1.7543859649122806
+960,Harrisburg,Single Family Residential,1.7543859649122806
+961,Harrisburg,Townhouse,1.7543859649122806
+962,Harrisonburg,Condo,1.7543859649122806
+963,Harrisonburg,Multi-Family (2-4 Unit),38.59649122807017
+964,Harrisonburg,Single Family Residential,1.7543859649122806
+965,Harrisonburg,Townhouse,1.7543859649122806
+966,Hartford,Condo,1.7543859649122806
+967,Hartford,Multi-Family (2-4 Unit),1.7543859649122806
+968,Hartford,Single Family Residential,1.7543859649122806
+969,Hartford,Townhouse,59.64912280701754
+970,Hawthorne,Condo,1.7543859649122806
+971,Hawthorne,Multi-Family (2-4 Unit),1.7543859649122806
+972,Hawthorne,Single Family Residential,1.7543859649122806
+973,Hawthorne,Townhouse,1.7543859649122806
+974,Hayward,Condo,1.7543859649122806
+975,Hayward,Multi-Family (2-4 Unit),1.7543859649122806
+976,Hayward,Single Family Residential,1.7543859649122806
+977,Hayward,Townhouse,1.7543859649122806
+978,Helena,Condo,1.7543859649122806
+979,Helena,Multi-Family (2-4 Unit),36.84210526315789
+980,Helena,Single Family Residential,1.7543859649122806
+981,Helena,Townhouse,1.7543859649122806
+982,Henderson,Condo,1.7543859649122806
+983,Henderson,Multi-Family (2-4 Unit),12.280701754385964
+984,Henderson,Single Family Residential,1.7543859649122806
+985,Henderson,Townhouse,1.7543859649122806
+986,Hendersonville,Condo,1.7543859649122806
+987,Hendersonville,Multi-Family (2-4 Unit),29.82456140350877
+988,Hendersonville,Single Family Residential,1.7543859649122806
+989,Hendersonville,Townhouse,3.508771929824561
+990,Herndon,Condo,1.7543859649122806
+991,Herndon,Single Family Residential,1.7543859649122806
+992,Herndon,Townhouse,1.7543859649122806
+993,Hialeah,Condo,1.7543859649122806
+994,Hialeah,Multi-Family (2-4 Unit),1.7543859649122806
+995,Hialeah,Single Family Residential,1.7543859649122806
+996,Hialeah,Townhouse,1.7543859649122806
+997,High Point,Condo,5.263157894736842
+998,High Point,Multi-Family (2-4 Unit),15.789473684210526
+999,High Point,Single Family Residential,1.7543859649122806
+1000,High Point,Townhouse,7.017543859649122
+1001,Hillsboro,Condo,1.7543859649122806
+1002,Hillsboro,Multi-Family (2-4 Unit),17.543859649122805
+1003,Hillsboro,Single Family Residential,1.7543859649122806
+1004,Hillsboro,Townhouse,1.7543859649122806
+1005,Hoffman Estates,Condo,1.7543859649122806
+1006,Hoffman Estates,Single Family Residential,1.7543859649122806
+1007,Hoffman Estates,Townhouse,1.7543859649122806
+1008,Holland,Condo,1.7543859649122806
+1009,Holland,Multi-Family (2-4 Unit),15.789473684210526
+1010,Holland,Single Family Residential,1.7543859649122806
+1011,Hollywood,Condo,1.7543859649122806
+1012,Hollywood,Multi-Family (2-4 Unit),1.7543859649122806
+1013,Hollywood,Single Family Residential,1.7543859649122806
+1014,Hollywood,Townhouse,1.7543859649122806
+1015,Holyoke,Condo,8.771929824561402
+1016,Holyoke,Multi-Family (2-4 Unit),1.7543859649122806
+1017,Holyoke,Single Family Residential,1.7543859649122806
+1018,Holyoke,Townhouse,52.63157894736842
+1019,Hopkins,Condo,1.7543859649122806
+1020,Hopkins,Multi-Family (2-4 Unit),19.298245614035086
+1021,Hopkins,Single Family Residential,1.7543859649122806
+1022,Hopkins,Townhouse,1.7543859649122806
+1023,Horsham,Condo,5.263157894736842
+1024,Horsham,Multi-Family (2-4 Unit),42.10526315789473
+1025,Horsham,Single Family Residential,1.7543859649122806
+1026,Horsham,Townhouse,1.7543859649122806
+1027,Houston,Condo,1.7543859649122806
+1028,Houston,Multi-Family (2-4 Unit),1.7543859649122806
+1029,Houston,Single Family Residential,1.7543859649122806
+1030,Houston,Townhouse,1.7543859649122806
+1031,Huntington Beach,Condo,1.7543859649122806
+1032,Huntington Beach,Multi-Family (2-4 Unit),1.7543859649122806
+1033,Huntington Beach,Single Family Residential,1.7543859649122806
+1034,Huntington Beach,Townhouse,1.7543859649122806
+1035,Huntsville,Condo,1.7543859649122806
+1036,Huntsville,Multi-Family (2-4 Unit),5.263157894736842
+1037,Huntsville,Single Family Residential,1.7543859649122806
+1038,Huntsville,Townhouse,1.7543859649122806
+1039,Idaho Falls,Multi-Family (2-4 Unit),1.7543859649122806
+1040,Idaho Falls,Single Family Residential,1.7543859649122806
+1041,Independence,Condo,50.877192982456144
+1042,Independence,Multi-Family (2-4 Unit),50.877192982456144
+1043,Independence,Single Family Residential,50.877192982456144
+1044,Independence,Townhouse,51.75438596491229
+1045,Indianapolis,Condo,1.7543859649122806
+1046,Indianapolis,Multi-Family (2-4 Unit),1.7543859649122806
+1047,Indianapolis,Single Family Residential,1.7543859649122806
+1048,Inglewood,Condo,1.7543859649122806
+1049,Inglewood,Multi-Family (2-4 Unit),1.7543859649122806
+1050,Inglewood,Single Family Residential,1.7543859649122806
+1051,Inglewood,Townhouse,3.508771929824561
+1052,Iowa City,Condo,1.7543859649122806
+1053,Iowa City,Multi-Family (2-4 Unit),1.7543859649122806
+1054,Iowa City,Single Family Residential,1.7543859649122806
+1055,Irvine,Condo,1.7543859649122806
+1056,Irvine,Multi-Family (2-4 Unit),94.73684210526315
+1057,Irvine,Single Family Residential,1.7543859649122806
+1058,Irvine,Townhouse,1.7543859649122806
+1059,Irving,Condo,1.7543859649122806
+1060,Irving,Multi-Family (2-4 Unit),21.052631578947366
+1061,Irving,Single Family Residential,1.7543859649122806
+1062,Irving,Townhouse,1.7543859649122806
+1063,Issaquah,Condo,1.7543859649122806
+1064,Issaquah,Multi-Family (2-4 Unit),49.122807017543856
+1065,Issaquah,Single Family Residential,1.7543859649122806
+1066,Issaquah,Townhouse,1.7543859649122806
+1067,Jackson,Condo,67.2514619883041
+1068,Jackson,Multi-Family (2-4 Unit),67.2514619883041
+1069,Jackson,Single Family Residential,67.2514619883041
+1070,Jackson,Townhouse,67.2514619883041
+1071,Jacksonville,Condo,50.877192982456144
+1072,Jacksonville,Multi-Family (2-4 Unit),50.877192982456144
+1073,Jacksonville,Single Family Residential,50.877192982456144
+1074,Jacksonville,Townhouse,50.877192982456144
+1075,Janesville,Condo,1.7543859649122806
+1076,Janesville,Multi-Family (2-4 Unit),1.7543859649122806
+1077,Janesville,Single Family Residential,1.7543859649122806
+1078,Janesville,Townhouse,8.771929824561402
+1079,Jersey City,Condo,1.7543859649122806
+1080,Jersey City,Multi-Family (2-4 Unit),1.7543859649122806
+1081,Jersey City,Single Family Residential,1.7543859649122806
+1082,Jersey City,Townhouse,5.263157894736842
+1083,Johnson City,Condo,1.7543859649122806
+1084,Johnson City,Multi-Family (2-4 Unit),1.7543859649122806
+1085,Johnson City,Single Family Residential,1.7543859649122806
+1086,Johnson City,Townhouse,1.7543859649122806
+1087,Joliet,Condo,1.7543859649122806
+1088,Joliet,Multi-Family (2-4 Unit),1.7543859649122806
+1089,Joliet,Single Family Residential,1.7543859649122806
+1090,Joliet,Townhouse,1.7543859649122806
+1091,Jonesboro,Condo,7.017543859649122
+1092,Jonesboro,Multi-Family (2-4 Unit),3.508771929824561
+1093,Jonesboro,Single Family Residential,1.7543859649122806
+1094,Jonesboro,Townhouse,3.508771929824561
+1095,Jupiter,Condo,1.7543859649122806
+1096,Jupiter,Multi-Family (2-4 Unit),38.59649122807017
+1097,Jupiter,Single Family Residential,1.7543859649122806
+1098,Jupiter,Townhouse,1.7543859649122806
+1099,Kalamazoo,Condo,1.7543859649122806
+1100,Kalamazoo,Multi-Family (2-4 Unit),5.263157894736842
+1101,Kalamazoo,Single Family Residential,1.7543859649122806
+1102,Kansas City,Condo,50.877192982456144
+1103,Kansas City,Multi-Family (2-4 Unit),50.877192982456144
+1104,Kansas City,Single Family Residential,50.877192982456144
+1105,Kansas City,Townhouse,50.877192982456144
+1106,Kenner,Condo,1.7543859649122806
+1107,Kenner,Multi-Family (2-4 Unit),5.263157894736842
+1108,Kenner,Single Family Residential,1.7543859649122806
+1109,Kenner,Townhouse,29.82456140350877
+1110,Kennesaw,Condo,5.263157894736842
+1111,Kennesaw,Single Family Residential,1.7543859649122806
+1112,Kennesaw,Townhouse,1.7543859649122806
+1113,Kennewick,Condo,3.508771929824561
+1114,Kennewick,Multi-Family (2-4 Unit),7.017543859649122
+1115,Kennewick,Single Family Residential,1.7543859649122806
+1116,Kennewick,Townhouse,1.7543859649122806
+1117,Kenosha,Condo,1.7543859649122806
+1118,Kenosha,Multi-Family (2-4 Unit),1.7543859649122806
+1119,Kenosha,Single Family Residential,1.7543859649122806
+1120,Kenosha,Townhouse,100.0
+1121,Kent,Condo,1.7543859649122806
+1122,Kent,Multi-Family (2-4 Unit),5.263157894736842
+1123,Kent,Single Family Residential,1.7543859649122806
+1124,Kent,Townhouse,1.7543859649122806
+1125,Killeen,Multi-Family (2-4 Unit),1.7543859649122806
+1126,Killeen,Single Family Residential,1.7543859649122806
+1127,Killeen,Townhouse,5.263157894736842
+1128,Kirkland,Condo,1.7543859649122806
+1129,Kirkland,Multi-Family (2-4 Unit),47.368421052631575
+1130,Kirkland,Single Family Residential,1.7543859649122806
+1131,Kirkland,Townhouse,1.7543859649122806
+1132,Kissimmee,Condo,1.7543859649122806
+1133,Kissimmee,Multi-Family (2-4 Unit),8.771929824561402
+1134,Kissimmee,Single Family Residential,1.7543859649122806
+1135,Kissimmee,Townhouse,1.7543859649122806
+1136,Knoxville,Condo,1.7543859649122806
+1137,Knoxville,Multi-Family (2-4 Unit),1.7543859649122806
+1138,Knoxville,Single Family Residential,1.7543859649122806
+1139,Knoxville,Townhouse,1.7543859649122806
+1140,La Crosse,Condo,1.7543859649122806
+1141,La Crosse,Multi-Family (2-4 Unit),1.7543859649122806
+1142,La Crosse,Single Family Residential,1.7543859649122806
+1143,La Crosse,Townhouse,88.09523809523809
+1144,La Mesa,Condo,1.7543859649122806
+1145,La Mesa,Multi-Family (2-4 Unit),5.263157894736842
+1146,La Mesa,Single Family Residential,1.7543859649122806
+1147,La Mesa,Townhouse,1.7543859649122806
+1148,Lacey,Condo,1.7543859649122806
+1149,Lacey,Multi-Family (2-4 Unit),15.789473684210526
+1150,Lacey,Single Family Residential,1.7543859649122806
+1151,Lacey,Townhouse,1.7543859649122806
+1152,Lafayette,Condo,67.2514619883041
+1153,Lafayette,Multi-Family (2-4 Unit),67.2514619883041
+1154,Lafayette,Single Family Residential,67.2514619883041
+1155,Lafayette,Townhouse,67.2514619883041
+1156,Lake Forest,Condo,50.877192982456144
+1157,Lake Forest,Multi-Family (2-4 Unit),74.56140350877193
+1158,Lake Forest,Single Family Residential,50.877192982456144
+1159,Lake Forest,Townhouse,50.877192982456144
+1160,Lake Oswego,Condo,3.508771929824561
+1161,Lake Oswego,Multi-Family (2-4 Unit),68.42105263157895
+1162,Lake Oswego,Single Family Residential,1.7543859649122806
+1163,Lake Oswego,Townhouse,1.7543859649122806
+1164,Lake Worth,Condo,1.7543859649122806
+1165,Lake Worth,Multi-Family (2-4 Unit),1.7543859649122806
+1166,Lake Worth,Single Family Residential,1.7543859649122806
+1167,Lake Worth,Townhouse,1.7543859649122806
+1168,Lakeland,Condo,1.7543859649122806
+1169,Lakeland,Multi-Family (2-4 Unit),1.7543859649122806
+1170,Lakeland,Single Family Residential,1.7543859649122806
+1171,Lakeland,Townhouse,1.7543859649122806
+1172,Lakeville,Condo,7.017543859649122
+1173,Lakeville,Multi-Family (2-4 Unit),19.298245614035086
+1174,Lakeville,Single Family Residential,1.7543859649122806
+1175,Lakeville,Townhouse,1.7543859649122806
+1176,Lakewood,Condo,67.2514619883041
+1177,Lakewood,Multi-Family (2-4 Unit),67.2514619883041
+1178,Lakewood,Single Family Residential,67.2514619883041
+1179,Lakewood,Townhouse,67.2514619883041
+1180,Lancaster,Condo,50.877192982456144
+1181,Lancaster,Multi-Family (2-4 Unit),50.877192982456144
+1182,Lancaster,Single Family Residential,50.877192982456144
+1183,Lancaster,Townhouse,50.877192982456144
+1184,Lansing,Condo,1.7543859649122806
+1185,Lansing,Multi-Family (2-4 Unit),1.7543859649122806
+1186,Lansing,Single Family Residential,1.7543859649122806
+1187,Lansing,Townhouse,40.35087719298245
+1188,Largo,Condo,1.7543859649122806
+1189,Largo,Multi-Family (2-4 Unit),1.7543859649122806
+1190,Largo,Single Family Residential,1.7543859649122806
+1191,Largo,Townhouse,1.7543859649122806
+1192,Las Cruces,Condo,1.7543859649122806
+1193,Las Cruces,Multi-Family (2-4 Unit),12.280701754385964
+1194,Las Cruces,Single Family Residential,1.7543859649122806
+1195,Las Cruces,Townhouse,1.7543859649122806
+1196,Las Vegas,Condo,1.7543859649122806
+1197,Las Vegas,Multi-Family (2-4 Unit),1.7543859649122806
+1198,Las Vegas,Single Family Residential,1.7543859649122806
+1199,Las Vegas,Townhouse,3.508771929824561
+1200,Laurel,Condo,1.7543859649122806
+1201,Laurel,Multi-Family (2-4 Unit),22.807017543859647
+1202,Laurel,Single Family Residential,1.7543859649122806
+1203,Laurel,Townhouse,1.7543859649122806
+1204,Lawrence,Condo,50.877192982456144
+1205,Lawrence,Multi-Family (2-4 Unit),50.877192982456144
+1206,Lawrence,Single Family Residential,50.877192982456144
+1207,Lawrence,Townhouse,50.877192982456144
+1208,Lawrenceville,Condo,3.508771929824561
+1209,Lawrenceville,Multi-Family (2-4 Unit),7.017543859649122
+1210,Lawrenceville,Single Family Residential,1.7543859649122806
+1211,Lawrenceville,Townhouse,1.7543859649122806
+1212,Lee's Summit,Condo,1.7543859649122806
+1213,Lee's Summit,Multi-Family (2-4 Unit),10.526315789473683
+1214,Lee's Summit,Single Family Residential,1.7543859649122806
+1215,Lee's Summit,Townhouse,1.7543859649122806
+1216,Leesburg,Condo,1.7543859649122806
+1217,Leesburg,Multi-Family (2-4 Unit),15.789473684210526
+1218,Leesburg,Single Family Residential,1.7543859649122806
+1219,Leesburg,Townhouse,1.7543859649122806
+1220,Lehi,Condo,1.7543859649122806
+1221,Lehi,Multi-Family (2-4 Unit),43.859649122807014
+1222,Lehi,Single Family Residential,1.7543859649122806
+1223,Lehi,Townhouse,1.7543859649122806
+1224,Lewisville,Condo,10.526315789473683
+1225,Lewisville,Multi-Family (2-4 Unit),35.08771929824561
+1226,Lewisville,Single Family Residential,1.7543859649122806
+1227,Lewisville,Townhouse,1.7543859649122806
+1228,Lexington,Condo,67.2514619883041
+1229,Lexington,Multi-Family (2-4 Unit),67.2514619883041
+1230,Lexington,Single Family Residential,67.2514619883041
+1231,Lexington,Townhouse,67.2514619883041
+1232,Lincoln,Condo,1.7543859649122806
+1233,Lincoln,Multi-Family (2-4 Unit),1.7543859649122806
+1234,Lincoln,Single Family Residential,1.7543859649122806
+1235,Lincoln,Townhouse,1.7543859649122806
+1236,Little Rock,Condo,1.7543859649122806
+1237,Little Rock,Multi-Family (2-4 Unit),1.7543859649122806
+1238,Little Rock,Single Family Residential,1.7543859649122806
+1239,Little Rock,Townhouse,1.7543859649122806
+1240,Littleton,Condo,1.7543859649122806
+1241,Littleton,Multi-Family (2-4 Unit),12.280701754385964
+1242,Littleton,Single Family Residential,1.7543859649122806
+1243,Littleton,Townhouse,1.7543859649122806
+1244,Livermore,Condo,1.7543859649122806
+1245,Livermore,Multi-Family (2-4 Unit),21.052631578947366
+1246,Livermore,Single Family Residential,1.7543859649122806
+1247,Livermore,Townhouse,1.7543859649122806
+1248,Lodi,Condo,1.7543859649122806
+1249,Lodi,Multi-Family (2-4 Unit),1.7543859649122806
+1250,Lodi,Single Family Residential,1.7543859649122806
+1251,Lodi,Townhouse,21.052631578947366
+1252,Logan,Condo,8.771929824561402
+1253,Logan,Multi-Family (2-4 Unit),3.508771929824561
+1254,Logan,Single Family Residential,1.7543859649122806
+1255,Logan,Townhouse,1.7543859649122806
+1256,Lombard,Condo,1.7543859649122806
+1257,Lombard,Multi-Family (2-4 Unit),92.98245614035088
+1258,Lombard,Single Family Residential,1.7543859649122806
+1259,Lombard,Townhouse,1.7543859649122806
+1260,Lone Tree,Condo,1.7543859649122806
+1261,Lone Tree,Multi-Family (2-4 Unit),90.625
+1262,Lone Tree,Single Family Residential,1.7543859649122806
+1263,Lone Tree,Townhouse,3.508771929824561
+1264,Long Beach,Condo,1.7543859649122806
+1265,Long Beach,Multi-Family (2-4 Unit),1.7543859649122806
+1266,Long Beach,Single Family Residential,1.7543859649122806
+1267,Long Beach,Townhouse,1.7543859649122806
+1268,Longmont,Condo,1.7543859649122806
+1269,Longmont,Multi-Family (2-4 Unit),7.017543859649122
+1270,Longmont,Single Family Residential,1.7543859649122806
+1271,Longmont,Townhouse,1.7543859649122806
+1272,Longview,Condo,1.7543859649122806
+1273,Longview,Multi-Family (2-4 Unit),1.7543859649122806
+1274,Longview,Single Family Residential,1.7543859649122806
+1275,Longview,Townhouse,15.789473684210526
+1276,Los Angeles,Condo,1.7543859649122806
+1277,Los Angeles,Multi-Family (2-4 Unit),1.7543859649122806
+1278,Los Angeles,Single Family Residential,1.7543859649122806
+1279,Los Angeles,Townhouse,1.7543859649122806
+1280,Los Gatos,Condo,1.7543859649122806
+1281,Los Gatos,Multi-Family (2-4 Unit),36.84210526315789
+1282,Los Gatos,Single Family Residential,1.7543859649122806
+1283,Los Gatos,Townhouse,1.7543859649122806
+1284,Louisville,Condo,50.877192982456144
+1285,Louisville,Multi-Family (2-4 Unit),50.877192982456144
+1286,Louisville,Single Family Residential,50.877192982456144
+1287,Louisville,Townhouse,50.877192982456144
+1288,Loveland,Condo,1.7543859649122806
+1289,Loveland,Multi-Family (2-4 Unit),14.035087719298245
+1290,Loveland,Single Family Residential,1.7543859649122806
+1291,Loveland,Townhouse,1.7543859649122806
+1292,Lowell,Condo,1.7543859649122806
+1293,Lowell,Multi-Family (2-4 Unit),1.7543859649122806
+1294,Lowell,Single Family Residential,1.7543859649122806
+1295,Lowell,Townhouse,1.7543859649122806
+1296,Lubbock,Condo,7.2727272727272725
+1297,Lubbock,Multi-Family (2-4 Unit),3.7037037037037033
+1298,Lubbock,Single Family Residential,1.7543859649122806
+1299,Lubbock,Townhouse,5.454545454545454
+1300,Lynchburg,Condo,1.7543859649122806
+1301,Lynchburg,Multi-Family (2-4 Unit),1.7543859649122806
+1302,Lynchburg,Single Family Residential,1.7543859649122806
+1303,Lynchburg,Townhouse,1.7543859649122806
+1304,Lynnwood,Condo,1.7543859649122806
+1305,Lynnwood,Multi-Family (2-4 Unit),47.368421052631575
+1306,Lynnwood,Single Family Residential,1.7543859649122806
+1307,Lynnwood,Townhouse,1.7543859649122806
+1308,Macon,Condo,15.789473684210526
+1309,Macon,Multi-Family (2-4 Unit),7.017543859649122
+1310,Macon,Single Family Residential,1.7543859649122806
+1311,Macon,Townhouse,12.280701754385964
+1312,Madison,Condo,50.877192982456144
+1313,Madison,Multi-Family (2-4 Unit),50.877192982456144
+1314,Madison,Single Family Residential,50.877192982456144
+1315,Madison,Townhouse,50.877192982456144
+1316,Manassas,Condo,1.7543859649122806
+1317,Manassas,Multi-Family (2-4 Unit),100.0
+1318,Manassas,Single Family Residential,1.7543859649122806
+1319,Manassas,Townhouse,1.7543859649122806
+1320,Manchester,Condo,50.877192982456144
+1321,Manchester,Multi-Family (2-4 Unit),50.877192982456144
+1322,Manchester,Single Family Residential,50.877192982456144
+1323,Manchester,Townhouse,50.877192982456144
+1324,Mansfield,Condo,1.7543859649122806
+1325,Mansfield,Multi-Family (2-4 Unit),1.7543859649122806
+1326,Mansfield,Single Family Residential,1.7543859649122806
+1327,Mansfield,Townhouse,5.263157894736842
+1328,Marietta,Condo,1.7543859649122806
+1329,Marietta,Multi-Family (2-4 Unit),12.280701754385964
+1330,Marietta,Single Family Residential,1.7543859649122806
+1331,Marietta,Townhouse,1.7543859649122806
+1332,Marlborough,Condo,1.7543859649122806
+1333,Marlborough,Multi-Family (2-4 Unit),1.7543859649122806
+1334,Marlborough,Single Family Residential,1.7543859649122806
+1335,Marlborough,Townhouse,1.7543859649122806
+1336,Marysville,Condo,1.7543859649122806
+1337,Marysville,Multi-Family (2-4 Unit),1.7543859649122806
+1338,Marysville,Single Family Residential,1.7543859649122806
+1339,Marysville,Townhouse,3.508771929824561
+1340,McLean,Condo,3.508771929824561
+1341,McLean,Single Family Residential,1.7543859649122806
+1342,McLean,Townhouse,1.7543859649122806
+1343,Mechanicsburg,Condo,14.035087719298245
+1344,Mechanicsburg,Multi-Family (2-4 Unit),19.298245614035086
+1345,Mechanicsburg,Single Family Residential,1.7543859649122806
+1346,Mechanicsburg,Townhouse,1.7543859649122806
+1347,Medford,Condo,50.877192982456144
+1348,Medford,Multi-Family (2-4 Unit),50.877192982456144
+1349,Medford,Single Family Residential,50.877192982456144
+1350,Medford,Townhouse,50.877192982456144
+1351,Melbourne,Condo,3.508771929824561
+1352,Melbourne,Multi-Family (2-4 Unit),14.035087719298245
+1353,Melbourne,Single Family Residential,1.7543859649122806
+1354,Melbourne,Townhouse,1.7543859649122806
+1355,Memphis,Condo,1.7543859649122806
+1356,Memphis,Multi-Family (2-4 Unit),1.7543859649122806
+1357,Memphis,Single Family Residential,1.7543859649122806
+1358,Memphis,Townhouse,3.508771929824561
+1359,Menlo Park,Condo,1.7543859649122806
+1360,Menlo Park,Multi-Family (2-4 Unit),52.63157894736842
+1361,Menlo Park,Single Family Residential,1.7543859649122806
+1362,Menlo Park,Townhouse,1.7543859649122806
+1363,Menomonee Falls,Condo,1.7543859649122806
+1364,Menomonee Falls,Multi-Family (2-4 Unit),43.859649122807014
+1365,Menomonee Falls,Single Family Residential,1.7543859649122806
+1366,Meridian,Condo,12.280701754385964
+1367,Meridian,Multi-Family (2-4 Unit),14.035087719298245
+1368,Meridian,Single Family Residential,1.7543859649122806
+1369,Meridian,Townhouse,1.7543859649122806
+1370,Mesa,Condo,1.7543859649122806
+1371,Mesa,Multi-Family (2-4 Unit),63.1578947368421
+1372,Mesa,Single Family Residential,3.508771929824561
+1373,Mesa,Townhouse,1.7543859649122806
+1374,Mesquite,Condo,7.017543859649122
+1375,Mesquite,Multi-Family (2-4 Unit),31.57894736842105
+1376,Mesquite,Single Family Residential,1.7543859649122806
+1377,Mesquite,Townhouse,1.7543859649122806
+1378,Metairie,Condo,1.7543859649122806
+1379,Metairie,Multi-Family (2-4 Unit),1.7543859649122806
+1380,Metairie,Single Family Residential,1.7543859649122806
+1381,Metairie,Townhouse,21.052631578947366
+1382,Miami,Condo,1.7543859649122806
+1383,Miami,Multi-Family (2-4 Unit),1.7543859649122806
+1384,Miami,Single Family Residential,1.7543859649122806
+1385,Miami,Townhouse,1.7543859649122806
+1386,Miami Beach,Condo,1.7543859649122806
+1387,Miami Beach,Multi-Family (2-4 Unit),3.508771929824561
+1388,Miami Beach,Single Family Residential,1.7543859649122806
+1389,Miami Beach,Townhouse,3.508771929824561
+1390,Middleton,Condo,1.7543859649122806
+1391,Middleton,Multi-Family (2-4 Unit),64.91228070175438
+1392,Middleton,Single Family Residential,1.7543859649122806
+1393,Middleton,Townhouse,1.7543859649122806
+1394,Middletown,Condo,1.7543859649122806
+1395,Middletown,Multi-Family (2-4 Unit),1.7543859649122806
+1396,Middletown,Single Family Residential,1.7543859649122806
+1397,Middletown,Townhouse,1.7543859649122806
+1398,Midlothian,Condo,1.7543859649122806
+1399,Midlothian,Multi-Family (2-4 Unit),56.14035087719298
+1400,Midlothian,Single Family Residential,1.7543859649122806
+1401,Midlothian,Townhouse,1.7543859649122806
+1402,Midvale,Condo,1.7543859649122806
+1403,Midvale,Multi-Family (2-4 Unit),15.789473684210526
+1404,Midvale,Single Family Residential,1.7543859649122806
+1405,Midvale,Townhouse,1.7543859649122806
+1406,Milford,Condo,50.877192982456144
+1407,Milford,Multi-Family (2-4 Unit),50.877192982456144
+1408,Milford,Single Family Residential,50.877192982456144
+1409,Milford,Townhouse,50.877192982456144
+1410,Milpitas,Condo,1.7543859649122806
+1411,Milpitas,Multi-Family (2-4 Unit),43.859649122807014
+1412,Milpitas,Single Family Residential,1.7543859649122806
+1413,Milpitas,Townhouse,1.7543859649122806
+1414,Milwaukee,Condo,1.7543859649122806
+1415,Milwaukee,Multi-Family (2-4 Unit),1.7543859649122806
+1416,Milwaukee,Single Family Residential,1.7543859649122806
+1417,Minneapolis,Condo,1.7543859649122806
+1418,Minneapolis,Multi-Family (2-4 Unit),1.7543859649122806
+1419,Minneapolis,Single Family Residential,1.7543859649122806
+1420,Minneapolis,Townhouse,1.7543859649122806
+1421,Minnetonka,Condo,1.7543859649122806
+1422,Minnetonka,Multi-Family (2-4 Unit),22.807017543859647
+1423,Minnetonka,Single Family Residential,1.7543859649122806
+1424,Minnetonka,Townhouse,1.7543859649122806
+1425,Mission Viejo,Condo,1.7543859649122806
+1426,Mission Viejo,Multi-Family (2-4 Unit),87.71929824561403
+1427,Mission Viejo,Single Family Residential,1.7543859649122806
+1428,Mission Viejo,Townhouse,1.7543859649122806
+1429,Missoula,Condo,1.7543859649122806
+1430,Missoula,Multi-Family (2-4 Unit),1.7543859649122806
+1431,Missoula,Single Family Residential,1.7543859649122806
+1432,Missoula,Townhouse,3.508771929824561
+1433,Mobile,Condo,1.7543859649122806
+1434,Mobile,Multi-Family (2-4 Unit),19.298245614035086
+1435,Mobile,Single Family Residential,1.7543859649122806
+1436,Mobile,Townhouse,5.263157894736842
+1437,Modesto,Condo,1.7543859649122806
+1438,Modesto,Multi-Family (2-4 Unit),1.7543859649122806
+1439,Modesto,Single Family Residential,1.7543859649122806
+1440,Modesto,Townhouse,24.561403508771928
+1441,Moline,Condo,3.508771929824561
+1442,Moline,Multi-Family (2-4 Unit),5.263157894736842
+1443,Moline,Single Family Residential,1.7543859649122806
+1444,Moline,Townhouse,42.10526315789473
+1445,Monroe,Condo,50.877192982456144
+1446,Monroe,Multi-Family (2-4 Unit),50.877192982456144
+1447,Monroe,Single Family Residential,50.877192982456144
+1448,Monroe,Townhouse,52.63157894736842
+1449,Montebello,Condo,1.7543859649122806
+1450,Montebello,Multi-Family (2-4 Unit),5.263157894736842
+1451,Montebello,Single Family Residential,1.7543859649122806
+1452,Montebello,Townhouse,19.298245614035086
+1453,Montgomery,Condo,1.7543859649122806
+1454,Montgomery,Multi-Family (2-4 Unit),1.7543859649122806
+1455,Montgomery,Single Family Residential,1.7543859649122806
+1456,Montgomery,Townhouse,1.7543859649122806
+1457,Mooresville,Condo,7.017543859649122
+1458,Mooresville,Multi-Family (2-4 Unit),42.10526315789473
+1459,Mooresville,Single Family Residential,1.7543859649122806
+1460,Mooresville,Townhouse,3.508771929824561
+1461,Morristown,Condo,5.263157894736842
+1462,Morristown,Multi-Family (2-4 Unit),7.017543859649122
+1463,Morristown,Single Family Residential,1.7543859649122806
+1464,Morristown,Townhouse,50.877192982456144
+1465,Morrisville,Condo,12.280701754385964
+1466,Morrisville,Multi-Family (2-4 Unit),26.31578947368421
+1467,Morrisville,Single Family Residential,1.7543859649122806
+1468,Morrisville,Townhouse,1.7543859649122806
+1469,Mount Pleasant,Condo,1.7543859649122806
+1470,Mount Pleasant,Multi-Family (2-4 Unit),1.7543859649122806
+1471,Mount Pleasant,Single Family Residential,1.7543859649122806
+1472,Mount Pleasant,Townhouse,1.7543859649122806
+1473,Mountain View,Condo,1.7543859649122806
+1474,Mountain View,Multi-Family (2-4 Unit),1.7543859649122806
+1475,Mountain View,Single Family Residential,1.7543859649122806
+1476,Mountain View,Townhouse,1.7543859649122806
+1477,Muncie,Condo,1.8181818181818181
+1478,Muncie,Multi-Family (2-4 Unit),1.8181818181818181
+1479,Muncie,Single Family Residential,1.8181818181818181
+1480,Murfreesboro,Condo,3.508771929824561
+1481,Murfreesboro,Multi-Family (2-4 Unit),8.771929824561402
+1482,Murfreesboro,Single Family Residential,1.7543859649122806
+1483,Murfreesboro,Townhouse,3.508771929824561
+1484,Murrieta,Condo,1.7857142857142856
+1485,Murrieta,Multi-Family (2-4 Unit),50.0
+1486,Murrieta,Single Family Residential,1.7857142857142856
+1487,Murrieta,Townhouse,1.7857142857142856
+1488,Muskegon,Condo,1.7543859649122806
+1489,Muskegon,Multi-Family (2-4 Unit),3.508771929824561
+1490,Muskegon,Single Family Residential,1.7543859649122806
+1491,Myrtle Beach,Condo,1.7543859649122806
+1492,Myrtle Beach,Multi-Family (2-4 Unit),14.035087719298245
+1493,Myrtle Beach,Single Family Residential,1.7543859649122806
+1494,Myrtle Beach,Townhouse,1.7543859649122806
+1495,Nampa,Condo,94.73684210526315
+1496,Nampa,Multi-Family (2-4 Unit),1.7543859649122806
+1497,Nampa,Single Family Residential,1.7543859649122806
+1498,Nampa,Townhouse,3.508771929824561
+1499,Napa,Condo,1.7543859649122806
+1500,Napa,Multi-Family (2-4 Unit),1.7543859649122806
+1501,Napa,Single Family Residential,1.7543859649122806
+1502,Napa,Townhouse,40.35087719298245
+1503,Naperville,Condo,1.7543859649122806
+1504,Naperville,Multi-Family (2-4 Unit),50.877192982456144
+1505,Naperville,Single Family Residential,1.7543859649122806
+1506,Naperville,Townhouse,1.7543859649122806
+1507,Naples,Condo,1.7543859649122806
+1508,Naples,Multi-Family (2-4 Unit),22.807017543859647
+1509,Naples,Single Family Residential,1.7543859649122806
+1510,Naples,Townhouse,1.7543859649122806
+1511,Nashua,Condo,1.7543859649122806
+1512,Nashua,Multi-Family (2-4 Unit),1.7543859649122806
+1513,Nashua,Single Family Residential,1.7543859649122806
+1514,Nashua,Townhouse,1.7543859649122806
+1515,Nashville,Condo,1.7543859649122806
+1516,Nashville,Multi-Family (2-4 Unit),1.7543859649122806
+1517,Nashville,Single Family Residential,1.7543859649122806
+1518,Nashville,Townhouse,1.7543859649122806
+1519,Natick,Condo,1.7543859649122806
+1520,Natick,Multi-Family (2-4 Unit),7.017543859649122
+1521,Natick,Single Family Residential,1.7543859649122806
+1522,Natick,Townhouse,1.7543859649122806
+1523,National City,Condo,3.508771929824561
+1524,National City,Multi-Family (2-4 Unit),5.263157894736842
+1525,National City,Single Family Residential,1.7543859649122806
+1526,National City,Townhouse,26.31578947368421
+1527,New Bedford,Condo,1.7543859649122806
+1528,New Bedford,Multi-Family (2-4 Unit),1.7543859649122806
+1529,New Bedford,Single Family Residential,1.7543859649122806
+1530,New Bedford,Townhouse,31.57894736842105
+1531,New Braunfels,Condo,1.7543859649122806
+1532,New Braunfels,Multi-Family (2-4 Unit),1.7543859649122806
+1533,New Braunfels,Single Family Residential,1.7543859649122806
+1534,New Braunfels,Townhouse,22.807017543859647
+1535,New Haven,Condo,1.7543859649122806
+1536,New Haven,Multi-Family (2-4 Unit),1.7543859649122806
+1537,New Haven,Single Family Residential,1.7543859649122806
+1538,New Orleans,Condo,1.7543859649122806
+1539,New Orleans,Multi-Family (2-4 Unit),1.7543859649122806
+1540,New Orleans,Single Family Residential,1.7543859649122806
+1541,New Orleans,Townhouse,12.280701754385964
+1542,New Port Richey,Condo,1.7543859649122806
+1543,New Port Richey,Multi-Family (2-4 Unit),17.543859649122805
+1544,New Port Richey,Single Family Residential,1.7543859649122806
+1545,New Port Richey,Townhouse,5.263157894736842
+1546,New York,Condo,1.7543859649122806
+1547,New York,Multi-Family (2-4 Unit),1.7543859649122806
+1548,New York,Single Family Residential,1.7543859649122806
+1549,New York,Townhouse,1.7543859649122806
+1550,Newark,Condo,67.2514619883041
+1551,Newark,Multi-Family (2-4 Unit),67.2514619883041
+1552,Newark,Single Family Residential,67.2514619883041
+1553,Newark,Townhouse,67.2514619883041
+1554,Newport Beach,Condo,1.7543859649122806
+1555,Newport Beach,Multi-Family (2-4 Unit),1.7543859649122806
+1556,Newport Beach,Single Family Residential,1.7543859649122806
+1557,Newport Beach,Townhouse,1.7543859649122806
+1558,Newport News,Condo,1.7543859649122806
+1559,Newport News,Multi-Family (2-4 Unit),19.298245614035086
+1560,Newport News,Single Family Residential,1.7543859649122806
+1561,Newport News,Townhouse,1.7543859649122806
+1562,Newton,Condo,1.7543859649122806
+1563,Newton,Multi-Family (2-4 Unit),1.7543859649122806
+1564,Newton,Single Family Residential,1.7543859649122806
+1565,Newton,Townhouse,1.7543859649122806
+1566,Norcross,Condo,3.508771929824561
+1567,Norcross,Multi-Family (2-4 Unit),21.052631578947366
+1568,Norcross,Single Family Residential,1.7543859649122806
+1569,Norcross,Townhouse,1.7543859649122806
+1570,Norfolk,Condo,1.7543859649122806
+1571,Norfolk,Multi-Family (2-4 Unit),1.7543859649122806
+1572,Norfolk,Single Family Residential,1.7543859649122806
+1573,Norfolk,Townhouse,1.7543859649122806
+1574,Norman,Condo,1.7543859649122806
+1575,Norman,Multi-Family (2-4 Unit),3.508771929824561
+1576,Norman,Single Family Residential,1.7543859649122806
+1577,Norman,Townhouse,1.7543859649122806
+1578,North Charleston,Condo,1.7543859649122806
+1579,North Charleston,Multi-Family (2-4 Unit),5.263157894736842
+1580,North Charleston,Single Family Residential,1.7543859649122806
+1581,North Charleston,Townhouse,1.7543859649122806
+1582,North Chicago,Condo,3.508771929824561
+1583,North Chicago,Multi-Family (2-4 Unit),3.508771929824561
+1584,North Chicago,Single Family Residential,1.7543859649122806
+1585,North Chicago,Townhouse,14.035087719298245
+1586,North Las Vegas,Condo,1.7543859649122806
+1587,North Las Vegas,Multi-Family (2-4 Unit),1.7543859649122806
+1588,North Las Vegas,Single Family Residential,1.7543859649122806
+1589,North Las Vegas,Townhouse,1.7543859649122806
+1590,North Miami Beach,Condo,1.7543859649122806
+1591,North Miami Beach,Multi-Family (2-4 Unit),7.017543859649122
+1592,North Miami Beach,Single Family Residential,1.7543859649122806
+1593,North Miami Beach,Townhouse,1.7543859649122806
+1594,Northbrook,Condo,1.7543859649122806
+1595,Northbrook,Multi-Family (2-4 Unit),100.0
+1596,Northbrook,Single Family Residential,1.7543859649122806
+1597,Northbrook,Townhouse,1.7543859649122806
+1598,Norwalk,Condo,50.877192982456144
+1599,Norwalk,Multi-Family (2-4 Unit),50.877192982456144
+1600,Norwalk,Single Family Residential,50.877192982456144
+1601,Norwalk,Townhouse,51.75438596491229
+1602,Norwood,Condo,3.508771929824561
+1603,Norwood,Multi-Family (2-4 Unit),1.7543859649122806
+1604,Norwood,Single Family Residential,1.7543859649122806
+1605,Norwood,Townhouse,1.7543859649122806
+1606,Novato,Condo,1.7543859649122806
+1607,Novato,Multi-Family (2-4 Unit),19.298245614035086
+1608,Novato,Single Family Residential,1.7543859649122806
+1609,Novato,Townhouse,8.333333333333332
+1610,Oak Brook,Condo,1.7543859649122806
+1611,Oak Brook,Single Family Residential,1.7543859649122806
+1612,Oak Brook,Townhouse,21.052631578947366
+1613,Oak Lawn,Condo,1.7543859649122806
+1614,Oak Lawn,Multi-Family (2-4 Unit),22.807017543859647
+1615,Oak Lawn,Single Family Residential,3.508771929824561
+1616,Oak Lawn,Townhouse,7.017543859649122
+1617,Oak Ridge,Condo,1.7543859649122806
+1618,Oak Ridge,Multi-Family (2-4 Unit),10.526315789473683
+1619,Oak Ridge,Single Family Residential,1.7543859649122806
+1620,Oak Ridge,Townhouse,5.263157894736842
+1621,Oakland,Condo,1.7543859649122806
+1622,Oakland,Multi-Family (2-4 Unit),1.7543859649122806
+1623,Oakland,Single Family Residential,1.7543859649122806
+1624,Oakland,Townhouse,1.7543859649122806
+1625,Oceanside,Condo,1.7543859649122806
+1626,Oceanside,Multi-Family (2-4 Unit),1.7543859649122806
+1627,Oceanside,Single Family Residential,1.7543859649122806
+1628,Oceanside,Townhouse,1.7543859649122806
+1629,Ogden,Condo,1.7543859649122806
+1630,Ogden,Multi-Family (2-4 Unit),1.7543859649122806
+1631,Ogden,Single Family Residential,1.7543859649122806
+1632,Ogden,Townhouse,1.7543859649122806
+1633,Oklahoma City,Condo,1.7543859649122806
+1634,Oklahoma City,Multi-Family (2-4 Unit),1.7543859649122806
+1635,Oklahoma City,Single Family Residential,1.7543859649122806
+1636,Oklahoma City,Townhouse,1.7543859649122806
+1637,Olathe,Condo,19.298245614035086
+1638,Olathe,Multi-Family (2-4 Unit),8.771929824561402
+1639,Olathe,Single Family Residential,1.7543859649122806
+1640,Olathe,Townhouse,1.7543859649122806
+1641,Olympia,Condo,1.7543859649122806
+1642,Olympia,Multi-Family (2-4 Unit),5.263157894736842
+1643,Olympia,Single Family Residential,1.7543859649122806
+1644,Olympia,Townhouse,3.508771929824561
+1645,Omaha,Condo,1.7543859649122806
+1646,Omaha,Multi-Family (2-4 Unit),1.7543859649122806
+1647,Omaha,Single Family Residential,1.7543859649122806
+1648,Omaha,Townhouse,1.7543859649122806
+1649,Ontario,Condo,1.7543859649122806
+1650,Ontario,Multi-Family (2-4 Unit),7.017543859649122
+1651,Ontario,Single Family Residential,1.7543859649122806
+1652,Ontario,Townhouse,3.508771929824561
+1653,Orange,Condo,1.7543859649122806
+1654,Orange,Multi-Family (2-4 Unit),1.7543859649122806
+1655,Orange,Single Family Residential,1.7543859649122806
+1656,Orange,Townhouse,3.508771929824561
+1657,Orange Park,Condo,1.7543859649122806
+1658,Orange Park,Multi-Family (2-4 Unit),42.10526315789473
+1659,Orange Park,Single Family Residential,1.7543859649122806
+1660,Orange Park,Townhouse,7.017543859649122
+1661,Orem,Condo,1.7543859649122806
+1662,Orem,Multi-Family (2-4 Unit),1.7543859649122806
+1663,Orem,Single Family Residential,1.7543859649122806
+1664,Orem,Townhouse,1.7543859649122806
+1665,Orland Park,Condo,1.7543859649122806
+1666,Orland Park,Multi-Family (2-4 Unit),64.91228070175438
+1667,Orland Park,Single Family Residential,1.7543859649122806
+1668,Orland Park,Townhouse,1.7543859649122806
+1669,Orlando,Condo,1.7543859649122806
+1670,Orlando,Multi-Family (2-4 Unit),1.7543859649122806
+1671,Orlando,Single Family Residential,1.7543859649122806
+1672,Orlando,Townhouse,1.7543859649122806
+1673,Oshkosh,Condo,1.7543859649122806
+1674,Oshkosh,Multi-Family (2-4 Unit),1.7543859649122806
+1675,Oshkosh,Single Family Residential,1.7543859649122806
+1676,Oshkosh,Townhouse,24.561403508771928
+1677,Overland Park,Condo,1.7543859649122806
+1678,Overland Park,Multi-Family (2-4 Unit),1.7543859649122806
+1679,Overland Park,Single Family Residential,1.7543859649122806
+1680,Overland Park,Townhouse,1.7543859649122806
+1681,Owings Mills,Condo,1.7543859649122806
+1682,Owings Mills,Single Family Residential,1.7543859649122806
+1683,Owings Mills,Townhouse,1.7543859649122806
+1684,Oxnard,Condo,1.7543859649122806
+1685,Oxnard,Multi-Family (2-4 Unit),3.508771929824561
+1686,Oxnard,Single Family Residential,1.7543859649122806
+1687,Oxnard,Townhouse,1.7543859649122806
+1688,Palm Bay,Condo,1.7543859649122806
+1689,Palm Bay,Multi-Family (2-4 Unit),31.57894736842105
+1690,Palm Bay,Single Family Residential,1.7543859649122806
+1691,Palm Bay,Townhouse,1.7543859649122806
+1692,Palm Harbor,Condo,1.7543859649122806
+1693,Palm Harbor,Multi-Family (2-4 Unit),54.385964912280706
+1694,Palm Harbor,Single Family Residential,1.7543859649122806
+1695,Palm Harbor,Townhouse,1.7543859649122806
+1696,Palm Springs,Condo,1.7543859649122806
+1697,Palm Springs,Multi-Family (2-4 Unit),3.508771929824561
+1698,Palm Springs,Single Family Residential,1.7543859649122806
+1699,Palm Springs,Townhouse,1.7543859649122806
+1700,Palo Alto,Condo,1.7543859649122806
+1701,Palo Alto,Multi-Family (2-4 Unit),42.10526315789473
+1702,Palo Alto,Single Family Residential,1.7543859649122806
+1703,Palo Alto,Townhouse,3.508771929824561
+1704,Panama City,Condo,5.263157894736842
+1705,Panama City,Multi-Family (2-4 Unit),7.017543859649122
+1706,Panama City,Single Family Residential,1.7543859649122806
+1707,Panama City,Townhouse,1.7543859649122806
+1708,Park City,Condo,1.7543859649122806
+1709,Park City,Multi-Family (2-4 Unit),49.122807017543856
+1710,Park City,Single Family Residential,1.7543859649122806
+1711,Park City,Townhouse,3.508771929824561
+1712,Parker,Condo,1.7543859649122806
+1713,Parker,Multi-Family (2-4 Unit),19.298245614035086
+1714,Parker,Single Family Residential,1.7543859649122806
+1715,Parker,Townhouse,1.7543859649122806
+1716,Pasadena,Condo,50.877192982456144
+1717,Pasadena,Multi-Family (2-4 Unit),50.877192982456144
+1718,Pasadena,Single Family Residential,50.877192982456144
+1719,Pasadena,Townhouse,50.877192982456144
+1720,Peabody,Condo,1.7543859649122806
+1721,Peabody,Multi-Family (2-4 Unit),1.7543859649122806
+1722,Peabody,Single Family Residential,1.7543859649122806
+1723,Peabody,Townhouse,1.7543859649122806
+1724,Pensacola,Condo,1.7543859649122806
+1725,Pensacola,Multi-Family (2-4 Unit),3.508771929824561
+1726,Pensacola,Single Family Residential,1.7543859649122806
+1727,Pensacola,Townhouse,1.7543859649122806
+1728,Peoria,Condo,50.877192982456144
+1729,Peoria,Multi-Family (2-4 Unit),50.877192982456144
+1730,Peoria,Single Family Residential,50.877192982456144
+1731,Peoria,Townhouse,50.877192982456144
+1732,Petaluma,Condo,1.7543859649122806
+1733,Petaluma,Multi-Family (2-4 Unit),7.017543859649122
+1734,Petaluma,Single Family Residential,1.7543859649122806
+1735,Petaluma,Townhouse,6.451612903225806
+1736,Philadelphia,Condo,1.7543859649122806
+1737,Philadelphia,Multi-Family (2-4 Unit),1.7543859649122806
+1738,Philadelphia,Single Family Residential,1.7543859649122806
+1739,Philadelphia,Townhouse,1.7543859649122806
+1740,Phoenix,Condo,1.7543859649122806
+1741,Phoenix,Multi-Family (2-4 Unit),1.7543859649122806
+1742,Phoenix,Single Family Residential,1.7543859649122806
+1743,Phoenix,Townhouse,1.7543859649122806
+1744,Pinellas Park,Condo,1.7543859649122806
+1745,Pinellas Park,Multi-Family (2-4 Unit),33.33333333333333
+1746,Pinellas Park,Single Family Residential,1.7543859649122806
+1747,Pinellas Park,Townhouse,1.7543859649122806
+1748,Pittsburgh,Condo,1.7543859649122806
+1749,Pittsburgh,Multi-Family (2-4 Unit),1.7543859649122806
+1750,Pittsburgh,Single Family Residential,1.7543859649122806
+1751,Pittsburgh,Townhouse,1.7543859649122806
+1752,Pittsfield,Condo,1.7543859649122806
+1753,Pittsfield,Multi-Family (2-4 Unit),1.7543859649122806
+1754,Pittsfield,Single Family Residential,1.7543859649122806
+1755,Pittsfield,Townhouse,91.22807017543859
+1756,Plainfield,Condo,1.7543859649122806
+1757,Plainfield,Multi-Family (2-4 Unit),1.7543859649122806
+1758,Plainfield,Single Family Residential,1.7543859649122806
+1759,Plainfield,Townhouse,1.7543859649122806
+1760,Plano,Condo,1.7543859649122806
+1761,Plano,Multi-Family (2-4 Unit),14.035087719298245
+1762,Plano,Single Family Residential,1.7543859649122806
+1763,Plano,Townhouse,1.7543859649122806
+1764,Pleasanton,Condo,1.7543859649122806
+1765,Pleasanton,Multi-Family (2-4 Unit),43.859649122807014
+1766,Pleasanton,Single Family Residential,1.7543859649122806
+1767,Pleasanton,Townhouse,1.7543859649122806
+1768,Plymouth,Condo,1.7543859649122806
+1769,Plymouth,Multi-Family (2-4 Unit),1.7543859649122806
+1770,Plymouth,Single Family Residential,1.7543859649122806
+1771,Plymouth,Townhouse,1.7543859649122806
+1772,Pomona,Condo,1.7543859649122806
+1773,Pomona,Multi-Family (2-4 Unit),1.7543859649122806
+1774,Pomona,Single Family Residential,1.7543859649122806
+1775,Pomona,Townhouse,3.508771929824561
+1776,Pompano Beach,Condo,1.7543859649122806
+1777,Pompano Beach,Multi-Family (2-4 Unit),1.7543859649122806
+1778,Pompano Beach,Single Family Residential,1.7543859649122806
+1779,Pompano Beach,Townhouse,1.7543859649122806
+1780,Portland,Condo,50.877192982456144
+1781,Portland,Multi-Family (2-4 Unit),50.877192982456144
+1782,Portland,Single Family Residential,50.877192982456144
+1783,Portland,Townhouse,50.877192982456144
+1784,Portsmouth,Condo,50.877192982456144
+1785,Portsmouth,Multi-Family (2-4 Unit),50.877192982456144
+1786,Portsmouth,Single Family Residential,50.877192982456144
+1787,Portsmouth,Townhouse,50.877192982456144
+1788,Poughkeepsie,Condo,1.7543859649122806
+1789,Poughkeepsie,Multi-Family (2-4 Unit),1.7543859649122806
+1790,Poughkeepsie,Single Family Residential,1.7543859649122806
+1791,Poughkeepsie,Townhouse,14.035087719298245
+1792,Prescott,Condo,1.7543859649122806
+1793,Prescott,Multi-Family (2-4 Unit),8.771929824561402
+1794,Prescott,Single Family Residential,1.7543859649122806
+1795,Prescott,Townhouse,1.7543859649122806
+1796,Princeton,Condo,1.7543859649122806
+1797,Princeton,Multi-Family (2-4 Unit),15.789473684210526
+1798,Princeton,Single Family Residential,1.7543859649122806
+1799,Princeton,Townhouse,1.7543859649122806
+1800,Providence,Condo,1.7543859649122806
+1801,Providence,Multi-Family (2-4 Unit),1.7543859649122806
+1802,Providence,Single Family Residential,1.7543859649122806
+1803,Providence,Townhouse,14.035087719298245
+1804,Provo,Condo,1.7543859649122806
+1805,Provo,Multi-Family (2-4 Unit),1.7543859649122806
+1806,Provo,Single Family Residential,1.7543859649122806
+1807,Provo,Townhouse,1.7543859649122806
+1808,Pueblo,Condo,1.7543859649122806
+1809,Pueblo,Multi-Family (2-4 Unit),1.7543859649122806
+1810,Pueblo,Single Family Residential,1.7543859649122806
+1811,Pueblo,Townhouse,1.7543859649122806
+1812,Puyallup,Condo,1.7543859649122806
+1813,Puyallup,Multi-Family (2-4 Unit),15.789473684210526
+1814,Puyallup,Single Family Residential,1.7543859649122806
+1815,Puyallup,Townhouse,8.771929824561402
+1816,Quincy,Condo,1.7543859649122806
+1817,Quincy,Multi-Family (2-4 Unit),1.7543859649122806
+1818,Quincy,Single Family Residential,1.7543859649122806
+1819,Quincy,Townhouse,1.7543859649122806
+1820,Racine,Condo,1.7543859649122806
+1821,Racine,Multi-Family (2-4 Unit),1.7543859649122806
+1822,Racine,Single Family Residential,1.7543859649122806
+1823,Raleigh,Condo,1.7543859649122806
+1824,Raleigh,Multi-Family (2-4 Unit),1.7543859649122806
+1825,Raleigh,Single Family Residential,1.7543859649122806
+1826,Raleigh,Townhouse,1.7543859649122806
+1827,Rancho Cordova,Condo,1.7543859649122806
+1828,Rancho Cordova,Multi-Family (2-4 Unit),1.7543859649122806
+1829,Rancho Cordova,Single Family Residential,1.7543859649122806
+1830,Rancho Cordova,Townhouse,14.035087719298245
+1831,Rancho Cucamonga,Condo,1.7543859649122806
+1832,Rancho Cucamonga,Multi-Family (2-4 Unit),49.122807017543856
+1833,Rancho Cucamonga,Single Family Residential,1.7543859649122806
+1834,Rancho Cucamonga,Townhouse,1.7543859649122806
+1835,Rapid City,Condo,37.254901960784316
+1836,Rapid City,Multi-Family (2-4 Unit),1.8867924528301887
+1837,Rapid City,Single Family Residential,1.7543859649122806
+1838,Rapid City,Townhouse,9.25925925925926
+1839,Reading,Condo,1.7543859649122806
+1840,Reading,Multi-Family (2-4 Unit),1.7543859649122806
+1841,Reading,Single Family Residential,1.7543859649122806
+1842,Reading,Townhouse,1.7543859649122806
+1843,Redding,Condo,3.508771929824561
+1844,Redding,Multi-Family (2-4 Unit),3.508771929824561
+1845,Redding,Single Family Residential,1.7543859649122806
+1846,Redlands,Condo,1.7543859649122806
+1847,Redlands,Multi-Family (2-4 Unit),1.7543859649122806
+1848,Redlands,Single Family Residential,1.7543859649122806
+1849,Redlands,Townhouse,5.263157894736842
+1850,Redmond,Condo,1.7543859649122806
+1851,Redmond,Multi-Family (2-4 Unit),8.771929824561402
+1852,Redmond,Single Family Residential,1.7543859649122806
+1853,Redmond,Townhouse,1.7543859649122806
+1854,Redondo Beach,Condo,1.7543859649122806
+1855,Redondo Beach,Multi-Family (2-4 Unit),1.7543859649122806
+1856,Redondo Beach,Single Family Residential,1.7543859649122806
+1857,Redondo Beach,Townhouse,1.7543859649122806
+1858,Redwood City,Condo,1.7543859649122806
+1859,Redwood City,Multi-Family (2-4 Unit),7.017543859649122
+1860,Redwood City,Single Family Residential,1.7543859649122806
+1861,Redwood City,Townhouse,3.508771929824561
+1862,Reno,Condo,1.7543859649122806
+1863,Reno,Multi-Family (2-4 Unit),1.7543859649122806
+1864,Reno,Single Family Residential,1.7543859649122806
+1865,Reno,Townhouse,1.7543859649122806
+1866,Renton,Condo,1.7543859649122806
+1867,Renton,Multi-Family (2-4 Unit),8.771929824561402
+1868,Renton,Single Family Residential,1.7543859649122806
+1869,Renton,Townhouse,1.7543859649122806
+1870,Reston,Condo,1.7543859649122806
+1871,Reston,Single Family Residential,1.7543859649122806
+1872,Reston,Townhouse,1.7543859649122806
+1873,Richardson,Condo,1.7543859649122806
+1874,Richardson,Multi-Family (2-4 Unit),38.59649122807017
+1875,Richardson,Single Family Residential,1.7543859649122806
+1876,Richardson,Townhouse,1.7543859649122806
+1877,Richland,Condo,1.7543859649122806
+1878,Richland,Multi-Family (2-4 Unit),3.508771929824561
+1879,Richland,Single Family Residential,1.7543859649122806
+1880,Richland,Townhouse,1.7543859649122806
+1881,Richmond,Condo,67.2514619883041
+1882,Richmond,Multi-Family (2-4 Unit),67.2514619883041
+1883,Richmond,Single Family Residential,67.2514619883041
+1884,Richmond,Townhouse,67.2514619883041
+1885,Riverside,Condo,1.7543859649122806
+1886,Riverside,Multi-Family (2-4 Unit),1.7543859649122806
+1887,Riverside,Single Family Residential,1.7543859649122806
+1888,Riverside,Townhouse,1.7543859649122806
+1889,Riverview,Condo,1.7543859649122806
+1890,Riverview,Multi-Family (2-4 Unit),73.68421052631578
+1891,Riverview,Single Family Residential,1.7543859649122806
+1892,Riverview,Townhouse,1.7543859649122806
+1893,Roanoke,Condo,50.877192982456144
+1894,Roanoke,Multi-Family (2-4 Unit),50.877192982456144
+1895,Roanoke,Single Family Residential,50.877192982456144
+1896,Roanoke,Townhouse,50.877192982456144
+1897,Rochester,Condo,67.2514619883041
+1898,Rochester,Multi-Family (2-4 Unit),67.2514619883041
+1899,Rochester,Single Family Residential,67.2514619883041
+1900,Rochester,Townhouse,67.2514619883041
+1901,Rock Hill,Condo,5.263157894736842
+1902,Rock Hill,Multi-Family (2-4 Unit),49.122807017543856
+1903,Rock Hill,Single Family Residential,1.7543859649122806
+1904,Rock Hill,Townhouse,12.280701754385964
+1905,Rockford,Condo,1.7543859649122806
+1906,Rockford,Multi-Family (2-4 Unit),1.7543859649122806
+1907,Rockford,Single Family Residential,1.7543859649122806
+1908,Rockford,Townhouse,1.7543859649122806
+1909,Rockville,Condo,1.7543859649122806
+1910,Rockville,Multi-Family (2-4 Unit),3.508771929824561
+1911,Rockville,Single Family Residential,1.7543859649122806
+1912,Rockville,Townhouse,1.7543859649122806
+1913,Rogers,Condo,3.508771929824561
+1914,Rogers,Multi-Family (2-4 Unit),3.508771929824561
+1915,Rogers,Single Family Residential,1.7543859649122806
+1916,Rogers,Townhouse,1.7543859649122806
+1917,Rome,Condo,7.142857142857142
+1918,Rome,Multi-Family (2-4 Unit),1.7857142857142856
+1919,Rome,Single Family Residential,1.7857142857142856
+1920,Rome,Townhouse,21.428571428571427
+1921,Romeoville,Condo,15.789473684210526
+1922,Romeoville,Single Family Residential,1.7543859649122806
+1923,Romeoville,Townhouse,1.7543859649122806
+1924,Roseville,Condo,1.7543859649122806
+1925,Roseville,Multi-Family (2-4 Unit),1.7543859649122806
+1926,Roseville,Single Family Residential,1.7543859649122806
+1927,Roseville,Townhouse,1.7543859649122806
+1928,Roswell,Condo,1.7543859649122806
+1929,Roswell,Multi-Family (2-4 Unit),28.07017543859649
+1930,Roswell,Single Family Residential,1.7543859649122806
+1931,Roswell,Townhouse,1.7543859649122806
+1932,Round Rock,Condo,1.7543859649122806
+1933,Round Rock,Multi-Family (2-4 Unit),1.7543859649122806
+1934,Round Rock,Single Family Residential,1.7543859649122806
+1935,Round Rock,Townhouse,14.035087719298245
+1936,Sacramento,Condo,1.7543859649122806
+1937,Sacramento,Multi-Family (2-4 Unit),1.7543859649122806
+1938,Sacramento,Single Family Residential,1.7543859649122806
+1939,Sacramento,Townhouse,1.7543859649122806
+1940,Saginaw,Condo,15.789473684210526
+1941,Saginaw,Multi-Family (2-4 Unit),3.508771929824561
+1942,Saginaw,Single Family Residential,1.7543859649122806
+1943,Salem,Condo,50.877192982456144
+1944,Salem,Multi-Family (2-4 Unit),50.877192982456144
+1945,Salem,Single Family Residential,50.877192982456144
+1946,Salem,Townhouse,50.877192982456144
+1947,Salinas,Condo,1.7543859649122806
+1948,Salinas,Multi-Family (2-4 Unit),1.7543859649122806
+1949,Salinas,Single Family Residential,1.7543859649122806
+1950,Salinas,Townhouse,7.017543859649122
+1951,Salisbury,Condo,1.7543859649122806
+1952,Salisbury,Multi-Family (2-4 Unit),3.508771929824561
+1953,Salisbury,Single Family Residential,1.7543859649122806
+1954,Salisbury,Townhouse,1.7543859649122806
+1955,Salt Lake City,Condo,1.7543859649122806
+1956,Salt Lake City,Multi-Family (2-4 Unit),1.7543859649122806
+1957,Salt Lake City,Single Family Residential,1.7543859649122806
+1958,Salt Lake City,Townhouse,1.7543859649122806
+1959,San Antonio,Condo,1.7543859649122806
+1960,San Antonio,Multi-Family (2-4 Unit),1.7543859649122806
+1961,San Antonio,Single Family Residential,1.7543859649122806
+1962,San Antonio,Townhouse,1.7543859649122806
+1963,San Bernardino,Condo,1.7543859649122806
+1964,San Bernardino,Multi-Family (2-4 Unit),1.7543859649122806
+1965,San Bernardino,Single Family Residential,1.7543859649122806
+1966,San Bernardino,Townhouse,17.543859649122805
+1967,San Diego,Condo,1.7543859649122806
+1968,San Diego,Multi-Family (2-4 Unit),1.7543859649122806
+1969,San Diego,Single Family Residential,1.7543859649122806
+1970,San Diego,Townhouse,1.7543859649122806
+1971,San Francisco,Condo,1.7543859649122806
+1972,San Francisco,Multi-Family (2-4 Unit),1.7543859649122806
+1973,San Francisco,Single Family Residential,1.7543859649122806
+1974,San Francisco,Townhouse,3.508771929824561
+1975,San Jose,Condo,1.7543859649122806
+1976,San Jose,Multi-Family (2-4 Unit),1.7543859649122806
+1977,San Jose,Single Family Residential,1.7543859649122806
+1978,San Jose,Townhouse,1.7543859649122806
+1979,San Leandro,Condo,1.7543859649122806
+1980,San Leandro,Multi-Family (2-4 Unit),3.508771929824561
+1981,San Leandro,Single Family Residential,1.7543859649122806
+1982,San Leandro,Townhouse,1.7543859649122806
+1983,San Luis Obispo,Condo,1.7543859649122806
+1984,San Luis Obispo,Multi-Family (2-4 Unit),5.263157894736842
+1985,San Luis Obispo,Single Family Residential,1.7543859649122806
+1986,San Luis Obispo,Townhouse,10.526315789473683
+1987,San Marcos,Condo,50.877192982456144
+1988,San Marcos,Multi-Family (2-4 Unit),52.63157894736842
+1989,San Marcos,Single Family Residential,50.877192982456144
+1990,San Marcos,Townhouse,50.877192982456144
+1991,San Mateo,Condo,1.7543859649122806
+1992,San Mateo,Multi-Family (2-4 Unit),10.526315789473683
+1993,San Mateo,Single Family Residential,1.7543859649122806
+1994,San Mateo,Townhouse,1.7543859649122806
+1995,San Rafael,Condo,1.7543859649122806
+1996,San Rafael,Multi-Family (2-4 Unit),7.017543859649122
+1997,San Rafael,Single Family Residential,1.7543859649122806
+1998,San Rafael,Townhouse,45.614035087719294
+1999,San Ramon,Condo,1.7543859649122806
+2000,San Ramon,Single Family Residential,1.7543859649122806
+2001,San Ramon,Townhouse,1.7543859649122806
+2002,Sandy,Condo,1.7543859649122806
+2003,Sandy,Multi-Family (2-4 Unit),31.57894736842105
+2004,Sandy,Single Family Residential,1.7543859649122806
+2005,Sandy,Townhouse,1.7543859649122806
+2006,Sandy Springs,Condo,1.7543859649122806
+2007,Sandy Springs,Multi-Family (2-4 Unit),61.40350877192983
+2008,Sandy Springs,Single Family Residential,1.7543859649122806
+2009,Sandy Springs,Townhouse,1.7543859649122806
+2010,Sanford,Condo,1.7543859649122806
+2011,Sanford,Multi-Family (2-4 Unit),1.7543859649122806
+2012,Sanford,Single Family Residential,1.7543859649122806
+2013,Sanford,Townhouse,1.7543859649122806
+2014,Santa Ana,Condo,1.7543859649122806
+2015,Santa Ana,Multi-Family (2-4 Unit),1.7543859649122806
+2016,Santa Ana,Single Family Residential,1.7543859649122806
+2017,Santa Ana,Townhouse,1.7543859649122806
+2018,Santa Barbara,Condo,1.7543859649122806
+2019,Santa Barbara,Multi-Family (2-4 Unit),75.43859649122807
+2020,Santa Barbara,Single Family Residential,1.7543859649122806
+2021,Santa Barbara,Townhouse,1.7543859649122806
+2022,Santa Clara,Condo,1.7543859649122806
+2023,Santa Clara,Multi-Family (2-4 Unit),1.7543859649122806
+2024,Santa Clara,Single Family Residential,1.7543859649122806
+2025,Santa Clara,Townhouse,1.7543859649122806
+2026,Santa Clarita,Condo,3.508771929824561
+2027,Santa Clarita,Multi-Family (2-4 Unit),38.59649122807017
+2028,Santa Clarita,Single Family Residential,1.7543859649122806
+2029,Santa Clarita,Townhouse,1.7543859649122806
+2030,Santa Cruz,Condo,1.7543859649122806
+2031,Santa Cruz,Multi-Family (2-4 Unit),3.508771929824561
+2032,Santa Cruz,Single Family Residential,1.7543859649122806
+2033,Santa Cruz,Townhouse,1.7543859649122806
+2034,Santa Fe,Condo,1.7543859649122806
+2035,Santa Fe,Multi-Family (2-4 Unit),8.771929824561402
+2036,Santa Fe,Single Family Residential,1.7543859649122806
+2037,Santa Fe,Townhouse,1.7543859649122806
+2038,Santa Maria,Condo,1.7543859649122806
+2039,Santa Maria,Multi-Family (2-4 Unit),7.017543859649122
+2040,Santa Maria,Single Family Residential,1.7543859649122806
+2041,Santa Maria,Townhouse,45.614035087719294
+2042,Santa Monica,Condo,1.7543859649122806
+2043,Santa Monica,Multi-Family (2-4 Unit),3.508771929824561
+2044,Santa Monica,Single Family Residential,1.7543859649122806
+2045,Santa Monica,Townhouse,1.7543859649122806
+2046,Santa Rosa,Condo,1.7543859649122806
+2047,Santa Rosa,Multi-Family (2-4 Unit),1.7543859649122806
+2048,Santa Rosa,Single Family Residential,1.7543859649122806
+2049,Santa Rosa,Townhouse,3.225806451612903
+2050,Sarasota,Condo,1.7543859649122806
+2051,Sarasota,Multi-Family (2-4 Unit),3.508771929824561
+2052,Sarasota,Single Family Residential,1.7543859649122806
+2053,Sarasota,Townhouse,1.7543859649122806
+2054,Savannah,Condo,1.7543859649122806
+2055,Savannah,Multi-Family (2-4 Unit),1.7543859649122806
+2056,Savannah,Single Family Residential,1.7543859649122806
+2057,Savannah,Townhouse,1.7543859649122806
+2058,Schaumburg,Condo,1.7543859649122806
+2059,Schaumburg,Single Family Residential,1.7543859649122806
+2060,Schaumburg,Townhouse,1.7543859649122806
+2061,Scottsdale,Condo,1.7543859649122806
+2062,Scottsdale,Multi-Family (2-4 Unit),92.98245614035088
+2063,Scottsdale,Single Family Residential,1.7543859649122806
+2064,Scottsdale,Townhouse,1.7543859649122806
+2065,Seattle,Condo,1.7543859649122806
+2066,Seattle,Multi-Family (2-4 Unit),1.7543859649122806
+2067,Seattle,Single Family Residential,1.7543859649122806
+2068,Seattle,Townhouse,1.7543859649122806
+2069,Secaucus,Condo,1.7543859649122806
+2070,Secaucus,Multi-Family (2-4 Unit),7.017543859649122
+2071,Secaucus,Single Family Residential,1.7543859649122806
+2072,Secaucus,Townhouse,3.508771929824561
+2073,Shakopee,Multi-Family (2-4 Unit),33.33333333333333
+2074,Shakopee,Single Family Residential,1.7543859649122806
+2075,Shakopee,Townhouse,1.7543859649122806
+2076,Shawnee,Condo,10.526315789473683
+2077,Shawnee,Multi-Family (2-4 Unit),15.789473684210526
+2078,Shawnee,Single Family Residential,1.7543859649122806
+2079,Shawnee,Townhouse,1.7543859649122806
+2080,Shreveport,Condo,24.561403508771928
+2081,Shreveport,Multi-Family (2-4 Unit),21.052631578947366
+2082,Shreveport,Single Family Residential,1.7543859649122806
+2083,Shreveport,Townhouse,3.508771929824561
+2084,Silver Spring,Condo,1.7543859649122806
+2085,Silver Spring,Multi-Family (2-4 Unit),87.71929824561403
+2086,Silver Spring,Single Family Residential,1.7543859649122806
+2087,Silver Spring,Townhouse,1.7543859649122806
+2088,Simi Valley,Condo,1.7543859649122806
+2089,Simi Valley,Multi-Family (2-4 Unit),75.43859649122807
+2090,Simi Valley,Single Family Residential,1.7543859649122806
+2091,Simi Valley,Townhouse,1.7543859649122806
+2092,Sioux Falls,Condo,3.508771929824561
+2093,Sioux Falls,Multi-Family (2-4 Unit),1.7543859649122806
+2094,Sioux Falls,Single Family Residential,1.7543859649122806
+2095,Sioux Falls,Townhouse,1.7543859649122806
+2096,Skokie,Condo,1.7543859649122806
+2097,Skokie,Multi-Family (2-4 Unit),1.7543859649122806
+2098,Skokie,Single Family Residential,1.7543859649122806
+2099,Skokie,Townhouse,1.7543859649122806
+2100,Smyrna,Condo,50.877192982456144
+2101,Smyrna,Multi-Family (2-4 Unit),57.01754385964912
+2102,Smyrna,Single Family Residential,50.877192982456144
+2103,Smyrna,Townhouse,50.877192982456144
+2104,Somerville,Condo,1.7543859649122806
+2105,Somerville,Multi-Family (2-4 Unit),1.7543859649122806
+2106,Somerville,Single Family Residential,1.7543859649122806
+2107,Somerville,Townhouse,1.7543859649122806
+2108,South Bend,Condo,1.7543859649122806
+2109,South Bend,Multi-Family (2-4 Unit),1.7543859649122806
+2110,South Bend,Single Family Residential,1.7543859649122806
+2111,South Bend,Townhouse,21.818181818181817
+2112,South Jordan,Condo,1.7543859649122806
+2113,South Jordan,Multi-Family (2-4 Unit),82.45614035087719
+2114,South Jordan,Single Family Residential,1.7543859649122806
+2115,South Jordan,Townhouse,1.7543859649122806
+2116,South San Francisco,Condo,1.7543859649122806
+2117,South San Francisco,Multi-Family (2-4 Unit),29.82456140350877
+2118,South San Francisco,Single Family Residential,1.7543859649122806
+2119,South San Francisco,Townhouse,17.543859649122805
+2120,Sparks,Condo,1.7543859649122806
+2121,Sparks,Multi-Family (2-4 Unit),5.263157894736842
+2122,Sparks,Single Family Residential,1.7543859649122806
+2123,Sparks,Townhouse,1.7543859649122806
+2124,Spartanburg,Condo,3.508771929824561
+2125,Spartanburg,Multi-Family (2-4 Unit),24.561403508771928
+2126,Spartanburg,Single Family Residential,1.7543859649122806
+2127,Spartanburg,Townhouse,3.508771929824561
+2128,Spokane,Condo,1.7543859649122806
+2129,Spokane,Multi-Family (2-4 Unit),1.7543859649122806
+2130,Spokane,Single Family Residential,1.7543859649122806
+2131,Spokane,Townhouse,77.5
+2132,Springdale,Condo,1.7543859649122806
+2133,Springdale,Multi-Family (2-4 Unit),1.7543859649122806
+2134,Springdale,Single Family Residential,1.7543859649122806
+2135,Springdale,Townhouse,1.7543859649122806
+2136,Springfield,Condo,83.62573099415205
+2137,Springfield,Multi-Family (2-4 Unit),83.62573099415205
+2138,Springfield,Single Family Residential,83.62573099415205
+2139,Springfield,Townhouse,83.62573099415205
+2140,Stamford,Condo,1.7543859649122806
+2141,Stamford,Multi-Family (2-4 Unit),1.7543859649122806
+2142,Stamford,Single Family Residential,1.7543859649122806
+2143,Sterling,Condo,1.7543859649122806
+2144,Sterling,Multi-Family (2-4 Unit),12.280701754385964
+2145,Sterling,Single Family Residential,1.7543859649122806
+2146,Sterling,Townhouse,1.7543859649122806
+2147,Stockton,Condo,1.7543859649122806
+2148,Stockton,Multi-Family (2-4 Unit),1.7543859649122806
+2149,Stockton,Single Family Residential,1.7543859649122806
+2150,Stockton,Townhouse,33.33333333333333
+2151,Stuart,Condo,1.7543859649122806
+2152,Stuart,Multi-Family (2-4 Unit),50.877192982456144
+2153,Stuart,Single Family Residential,1.7543859649122806
+2154,Stuart,Townhouse,1.7543859649122806
+2155,Suffolk,Condo,1.7543859649122806
+2156,Suffolk,Multi-Family (2-4 Unit),8.771929824561402
+2157,Suffolk,Single Family Residential,1.7543859649122806
+2158,Suffolk,Townhouse,1.7543859649122806
+2159,Sugar Land,Condo,14.035087719298245
+2160,Sugar Land,Single Family Residential,1.7543859649122806
+2161,Sugar Land,Townhouse,1.7543859649122806
+2162,Summerville,Condo,1.7543859649122806
+2163,Summerville,Multi-Family (2-4 Unit),42.10526315789473
+2164,Summerville,Single Family Residential,1.7543859649122806
+2165,Summerville,Townhouse,1.7543859649122806
+2166,Sunnyvale,Condo,1.7543859649122806
+2167,Sunnyvale,Multi-Family (2-4 Unit),3.508771929824561
+2168,Sunnyvale,Single Family Residential,1.7543859649122806
+2169,Sunnyvale,Townhouse,1.7543859649122806
+2170,Syracuse,Condo,7.017543859649122
+2171,Syracuse,Multi-Family (2-4 Unit),1.7543859649122806
+2172,Syracuse,Single Family Residential,1.7543859649122806
+2173,Syracuse,Townhouse,8.771929824561402
+2174,Tacoma,Condo,1.7543859649122806
+2175,Tacoma,Multi-Family (2-4 Unit),1.7543859649122806
+2176,Tacoma,Single Family Residential,1.7543859649122806
+2177,Tacoma,Townhouse,1.7543859649122806
+2178,Tallahassee,Condo,1.7543859649122806
+2179,Tallahassee,Multi-Family (2-4 Unit),1.7543859649122806
+2180,Tallahassee,Single Family Residential,1.7543859649122806
+2181,Tallahassee,Townhouse,1.7543859649122806
+2182,Tampa,Condo,1.7543859649122806
+2183,Tampa,Multi-Family (2-4 Unit),1.7543859649122806
+2184,Tampa,Single Family Residential,1.7543859649122806
+2185,Tampa,Townhouse,1.7543859649122806
+2186,Tarrytown,Condo,3.508771929824561
+2187,Tarrytown,Multi-Family (2-4 Unit),38.59649122807017
+2188,Tarrytown,Single Family Residential,1.7543859649122806
+2189,Taunton,Condo,1.7543859649122806
+2190,Taunton,Multi-Family (2-4 Unit),1.7543859649122806
+2191,Taunton,Single Family Residential,1.7543859649122806
+2192,Taunton,Townhouse,1.7543859649122806
+2193,Tempe,Condo,1.7543859649122806
+2194,Tempe,Multi-Family (2-4 Unit),64.91228070175438
+2195,Tempe,Single Family Residential,1.7543859649122806
+2196,Tempe,Townhouse,1.7543859649122806
+2197,Terre Haute,Condo,19.298245614035086
+2198,Terre Haute,Multi-Family (2-4 Unit),15.789473684210526
+2199,Terre Haute,Single Family Residential,1.7543859649122806
+2200,Thornton,Condo,1.7543859649122806
+2201,Thornton,Multi-Family (2-4 Unit),75.43859649122807
+2202,Thornton,Single Family Residential,1.7543859649122806
+2203,Thornton,Townhouse,1.7543859649122806
+2204,Thousand Oaks,Condo,1.7543859649122806
+2205,Thousand Oaks,Multi-Family (2-4 Unit),71.9298245614035
+2206,Thousand Oaks,Single Family Residential,1.7543859649122806
+2207,Thousand Oaks,Townhouse,1.7543859649122806
+2208,Tinley Park,Condo,1.7857142857142856
+2209,Tinley Park,Multi-Family (2-4 Unit),62.5
+2210,Tinley Park,Single Family Residential,1.7857142857142856
+2211,Tinley Park,Townhouse,1.7857142857142856
+2212,Toledo,Condo,1.7543859649122806
+2213,Toledo,Multi-Family (2-4 Unit),1.7543859649122806
+2214,Toledo,Single Family Residential,1.7543859649122806
+2215,Toledo,Townhouse,100.0
+2216,Torrance,Condo,1.7543859649122806
+2217,Torrance,Multi-Family (2-4 Unit),1.7543859649122806
+2218,Torrance,Single Family Residential,1.7543859649122806
+2219,Torrance,Townhouse,1.7543859649122806
+2220,Towson,Condo,1.7543859649122806
+2221,Towson,Multi-Family (2-4 Unit),89.47368421052632
+2222,Towson,Single Family Residential,1.7543859649122806
+2223,Towson,Townhouse,1.7543859649122806
+2224,Traverse City,Condo,3.508771929824561
+2225,Traverse City,Single Family Residential,1.7543859649122806
+2226,Trenton,Condo,1.7543859649122806
+2227,Trenton,Multi-Family (2-4 Unit),1.7543859649122806
+2228,Trenton,Single Family Residential,1.7543859649122806
+2229,Trenton,Townhouse,1.7543859649122806
+2230,Troy,Condo,1.7543859649122806
+2231,Troy,Multi-Family (2-4 Unit),1.7543859649122806
+2232,Troy,Single Family Residential,1.7543859649122806
+2233,Troy,Townhouse,5.263157894736842
+2234,Tucker,Condo,1.7543859649122806
+2235,Tucker,Multi-Family (2-4 Unit),71.9298245614035
+2236,Tucker,Single Family Residential,1.7543859649122806
+2237,Tucker,Townhouse,1.7543859649122806
+2238,Tucson,Condo,1.7543859649122806
+2239,Tucson,Multi-Family (2-4 Unit),1.7543859649122806
+2240,Tucson,Single Family Residential,1.7543859649122806
+2241,Tucson,Townhouse,1.7543859649122806
+2242,Tulsa,Condo,1.7543859649122806
+2243,Tulsa,Multi-Family (2-4 Unit),1.7543859649122806
+2244,Tulsa,Single Family Residential,1.7543859649122806
+2245,Tulsa,Townhouse,1.7543859649122806
+2246,Tuscaloosa,Condo,1.7543859649122806
+2247,Tuscaloosa,Multi-Family (2-4 Unit),15.789473684210526
+2248,Tuscaloosa,Single Family Residential,1.7543859649122806
+2249,Tuscaloosa,Townhouse,3.508771929824561
+2250,Tustin,Condo,1.7543859649122806
+2251,Tustin,Multi-Family (2-4 Unit),45.614035087719294
+2252,Tustin,Single Family Residential,1.7543859649122806
+2253,Tustin,Townhouse,1.7543859649122806
+2254,Twin Falls,Condo,26.31578947368421
+2255,Twin Falls,Multi-Family (2-4 Unit),1.7543859649122806
+2256,Twin Falls,Single Family Residential,1.7543859649122806
+2257,Twin Falls,Townhouse,10.526315789473683
+2258,Tyler,Condo,1.7543859649122806
+2259,Tyler,Multi-Family (2-4 Unit),7.017543859649122
+2260,Tyler,Single Family Residential,1.7543859649122806
+2261,Tyler,Townhouse,7.017543859649122
+2262,Union,Condo,5.263157894736842
+2263,Union,Multi-Family (2-4 Unit),1.7543859649122806
+2264,Union,Single Family Residential,1.7543859649122806
+2265,Union,Townhouse,1.7543859649122806
+2266,Union City,Condo,1.7543859649122806
+2267,Union City,Multi-Family (2-4 Unit),1.7543859649122806
+2268,Union City,Single Family Residential,1.7543859649122806
+2269,Union City,Townhouse,1.7543859649122806
+2270,Upland,Condo,1.7543859649122806
+2271,Upland,Multi-Family (2-4 Unit),12.280701754385964
+2272,Upland,Single Family Residential,1.7543859649122806
+2273,Upland,Townhouse,1.7543859649122806
+2274,Urbana,Condo,1.7543859649122806
+2275,Urbana,Multi-Family (2-4 Unit),10.526315789473683
+2276,Urbana,Single Family Residential,1.7543859649122806
+2277,Urbana,Townhouse,1.7543859649122806
+2278,Utica,Condo,3.508771929824561
+2279,Utica,Multi-Family (2-4 Unit),1.7543859649122806
+2280,Utica,Single Family Residential,1.7543859649122806
+2281,Utica,Townhouse,70.17543859649122
+2282,Vacaville,Condo,1.7543859649122806
+2283,Vacaville,Multi-Family (2-4 Unit),29.82456140350877
+2284,Vacaville,Single Family Residential,1.7543859649122806
+2285,Vallejo,Condo,1.7543859649122806
+2286,Vallejo,Multi-Family (2-4 Unit),1.7543859649122806
+2287,Vallejo,Single Family Residential,1.7543859649122806
+2288,Vallejo,Townhouse,40.35087719298245
+2289,Vancouver,Condo,1.7543859649122806
+2290,Vancouver,Multi-Family (2-4 Unit),1.7543859649122806
+2291,Vancouver,Single Family Residential,1.7543859649122806
+2292,Vancouver,Townhouse,3.508771929824561
+2293,Ventura,Condo,1.7543859649122806
+2294,Ventura,Multi-Family (2-4 Unit),5.263157894736842
+2295,Ventura,Single Family Residential,1.7543859649122806
+2296,Ventura,Townhouse,1.7543859649122806
+2297,Vero Beach,Condo,1.7543859649122806
+2298,Vero Beach,Multi-Family (2-4 Unit),5.263157894736842
+2299,Vero Beach,Single Family Residential,1.7543859649122806
+2300,Vero Beach,Townhouse,8.771929824561402
+2301,Vienna,Condo,1.7543859649122806
+2302,Vienna,Multi-Family (2-4 Unit),73.68421052631578
+2303,Vienna,Single Family Residential,1.7543859649122806
+2304,Vienna,Townhouse,1.7543859649122806
+2305,Virginia Beach,Condo,1.7543859649122806
+2306,Virginia Beach,Multi-Family (2-4 Unit),7.017543859649122
+2307,Virginia Beach,Single Family Residential,1.7543859649122806
+2308,Virginia Beach,Townhouse,1.7543859649122806
+2309,Visalia,Condo,5.263157894736842
+2310,Visalia,Multi-Family (2-4 Unit),3.508771929824561
+2311,Visalia,Single Family Residential,1.7543859649122806
+2312,Visalia,Townhouse,33.9622641509434
+2313,Vista,Condo,1.7543859649122806
+2314,Vista,Multi-Family (2-4 Unit),14.035087719298245
+2315,Vista,Single Family Residential,1.7543859649122806
+2316,Vista,Townhouse,1.7543859649122806
+2317,Waco,Condo,1.7543859649122806
+2318,Waco,Multi-Family (2-4 Unit),3.508771929824561
+2319,Waco,Single Family Residential,1.7543859649122806
+2320,Waco,Townhouse,3.508771929824561
+2321,Walnut Creek,Condo,1.7543859649122806
+2322,Walnut Creek,Multi-Family (2-4 Unit),40.35087719298245
+2323,Walnut Creek,Single Family Residential,1.7543859649122806
+2324,Walnut Creek,Townhouse,1.7543859649122806
+2325,Waltham,Condo,1.7543859649122806
+2326,Waltham,Multi-Family (2-4 Unit),3.508771929824561
+2327,Waltham,Single Family Residential,1.7543859649122806
+2328,Waltham,Townhouse,1.7543859649122806
+2329,Warren,Condo,1.7543859649122806
+2330,Warren,Multi-Family (2-4 Unit),1.7543859649122806
+2331,Warren,Single Family Residential,1.7543859649122806
+2332,Warren,Townhouse,84.21052631578947
+2333,Warwick,Condo,1.7543859649122806
+2334,Warwick,Multi-Family (2-4 Unit),1.7543859649122806
+2335,Warwick,Single Family Residential,1.7543859649122806
+2336,Warwick,Townhouse,73.68421052631578
+2337,Washington,Condo,50.877192982456144
+2338,Washington,Multi-Family (2-4 Unit),50.877192982456144
+2339,Washington,Single Family Residential,50.877192982456144
+2340,Washington,Townhouse,50.877192982456144
+2341,Waterbury,Condo,1.7543859649122806
+2342,Waterbury,Multi-Family (2-4 Unit),1.7543859649122806
+2343,Waterbury,Single Family Residential,1.7543859649122806
+2344,Waterbury,Townhouse,57.89473684210527
+2345,Waterloo,Condo,1.7543859649122806
+2346,Waterloo,Multi-Family (2-4 Unit),1.7543859649122806
+2347,Waterloo,Single Family Residential,1.7543859649122806
+2348,Waterloo,Townhouse,33.33333333333333
+2349,Watertown,Condo,1.7543859649122806
+2350,Watertown,Multi-Family (2-4 Unit),1.7543859649122806
+2351,Watertown,Single Family Residential,1.7543859649122806
+2352,Watertown,Townhouse,1.7543859649122806
+2353,Waukegan,Condo,8.771929824561402
+2354,Waukegan,Multi-Family (2-4 Unit),1.7543859649122806
+2355,Waukegan,Single Family Residential,1.7543859649122806
+2356,Waukegan,Townhouse,1.7543859649122806
+2357,Waukesha,Condo,1.7543859649122806
+2358,Waukesha,Multi-Family (2-4 Unit),1.7543859649122806
+2359,Waukesha,Single Family Residential,1.7543859649122806
+2360,Waukesha,Townhouse,87.71929824561403
+2361,Wauwatosa,Condo,3.508771929824561
+2362,Wauwatosa,Multi-Family (2-4 Unit),1.7543859649122806
+2363,Wauwatosa,Single Family Residential,1.7543859649122806
+2364,West Chester,Condo,50.877192982456144
+2365,West Chester,Multi-Family (2-4 Unit),57.89473684210527
+2366,West Chester,Single Family Residential,50.877192982456144
+2367,West Chester,Townhouse,50.877192982456144
+2368,West Covina,Condo,1.7543859649122806
+2369,West Covina,Multi-Family (2-4 Unit),56.14035087719298
+2370,West Covina,Single Family Residential,1.7543859649122806
+2371,West Covina,Townhouse,1.7543859649122806
+2372,West Jordan,Condo,1.7543859649122806
+2373,West Jordan,Multi-Family (2-4 Unit),89.47368421052632
+2374,West Jordan,Single Family Residential,1.7543859649122806
+2375,West Jordan,Townhouse,1.7543859649122806
+2376,West Palm Beach,Condo,1.7543859649122806
+2377,West Palm Beach,Multi-Family (2-4 Unit),1.7543859649122806
+2378,West Palm Beach,Single Family Residential,1.7543859649122806
+2379,West Palm Beach,Townhouse,1.7543859649122806
+2380,West Sacramento,Condo,1.7543859649122806
+2381,West Sacramento,Multi-Family (2-4 Unit),10.526315789473683
+2382,West Sacramento,Single Family Residential,1.7543859649122806
+2383,West Sacramento,Townhouse,29.82456140350877
+2384,Westborough,Condo,5.263157894736842
+2385,Westborough,Multi-Family (2-4 Unit),49.122807017543856
+2386,Westborough,Single Family Residential,1.7543859649122806
+2387,Westborough,Townhouse,3.508771929824561
+2388,Westerville,Condo,1.7543859649122806
+2389,Westerville,Multi-Family (2-4 Unit),36.84210526315789
+2390,Westerville,Single Family Residential,1.7543859649122806
+2391,Westland,Condo,1.7543859649122806
+2392,Westland,Multi-Family (2-4 Unit),12.280701754385964
+2393,Westland,Single Family Residential,1.7543859649122806
+2394,Westminster,Condo,1.7543859649122806
+2395,Westminster,Multi-Family (2-4 Unit),8.771929824561402
+2396,Westminster,Single Family Residential,1.7543859649122806
+2397,Westminster,Townhouse,1.7543859649122806
+2398,Wheat Ridge,Condo,1.7543859649122806
+2399,Wheat Ridge,Multi-Family (2-4 Unit),5.263157894736842
+2400,Wheat Ridge,Single Family Residential,1.7543859649122806
+2401,Wheat Ridge,Townhouse,1.7543859649122806
+2402,Wheaton,Condo,1.8181818181818181
+2403,Wheaton,Multi-Family (2-4 Unit),92.72727272727272
+2404,Wheaton,Single Family Residential,1.8181818181818181
+2405,Wheaton,Townhouse,1.8181818181818181
+2406,Whittier,Condo,1.7543859649122806
+2407,Whittier,Multi-Family (2-4 Unit),1.7543859649122806
+2408,Whittier,Single Family Residential,1.7543859649122806
+2409,Whittier,Townhouse,3.508771929824561
+2410,Wichita,Condo,1.7543859649122806
+2411,Wichita,Multi-Family (2-4 Unit),1.7543859649122806
+2412,Wichita,Single Family Residential,1.7543859649122806
+2413,Wichita,Townhouse,91.22807017543859
+2414,Wichita Falls,Multi-Family (2-4 Unit),12.195121951219512
+2415,Wichita Falls,Single Family Residential,8.771929824561402
+2416,Wilmington,Condo,67.2514619883041
+2417,Wilmington,Multi-Family (2-4 Unit),67.2514619883041
+2418,Wilmington,Single Family Residential,67.2514619883041
+2419,Wilmington,Townhouse,67.2514619883041
+2420,Wilson,Condo,38.18181818181819
+2421,Wilson,Multi-Family (2-4 Unit),9.090909090909092
+2422,Wilson,Single Family Residential,1.8181818181818181
+2423,Wilson,Townhouse,1.8181818181818181
+2424,Winchester,Condo,1.7543859649122806
+2425,Winchester,Multi-Family (2-4 Unit),1.7543859649122806
+2426,Winchester,Single Family Residential,1.7543859649122806
+2427,Winchester,Townhouse,1.7543859649122806
+2428,Windsor,Condo,3.508771929824561
+2429,Windsor,Multi-Family (2-4 Unit),21.052631578947366
+2430,Windsor,Single Family Residential,1.7543859649122806
+2431,Windsor,Townhouse,1.7543859649122806
+2432,Winter Garden,Condo,1.7543859649122806
+2433,Winter Garden,Multi-Family (2-4 Unit),73.68421052631578
+2434,Winter Garden,Single Family Residential,1.7543859649122806
+2435,Winter Garden,Townhouse,1.7543859649122806
+2436,Winter Haven,Condo,1.7543859649122806
+2437,Winter Haven,Multi-Family (2-4 Unit),14.035087719298245
+2438,Winter Haven,Single Family Residential,1.7543859649122806
+2439,Winter Haven,Townhouse,5.263157894736842
+2440,Winter Park,Condo,3.508771929824561
+2441,Winter Park,Multi-Family (2-4 Unit),40.35087719298245
+2442,Winter Park,Single Family Residential,1.7543859649122806
+2443,Winter Park,Townhouse,1.7543859649122806
+2444,Woburn,Condo,1.7543859649122806
+2445,Woburn,Multi-Family (2-4 Unit),1.7543859649122806
+2446,Woburn,Single Family Residential,1.7543859649122806
+2447,Woburn,Townhouse,1.7543859649122806
+2448,Woodbridge,Condo,50.877192982456144
+2449,Woodbridge,Multi-Family (2-4 Unit),55.26315789473685
+2450,Woodbridge,Single Family Residential,50.877192982456144
+2451,Woodbridge,Townhouse,50.877192982456144
+2452,Woodinville,Condo,5.263157894736842
+2453,Woodinville,Single Family Residential,1.7543859649122806
+2454,Woodinville,Townhouse,10.526315789473683
+2455,Woodland,Condo,5.263157894736842
+2456,Woodland,Multi-Family (2-4 Unit),1.7543859649122806
+2457,Woodland,Single Family Residential,1.7543859649122806
+2458,Woodland,Townhouse,29.82456140350877
+2459,Woonsocket,Condo,1.7543859649122806
+2460,Woonsocket,Multi-Family (2-4 Unit),1.7543859649122806
+2461,Woonsocket,Single Family Residential,1.7543859649122806
+2462,Woonsocket,Townhouse,80.55555555555556
+2463,Worcester,Condo,1.7543859649122806
+2464,Worcester,Multi-Family (2-4 Unit),1.7543859649122806
+2465,Worcester,Single Family Residential,1.7543859649122806
+2466,Worcester,Townhouse,1.7543859649122806
+2467,Wyoming,Condo,1.7543859649122806
+2468,Wyoming,Multi-Family (2-4 Unit),7.017543859649122
+2469,Wyoming,Single Family Residential,1.7543859649122806
+2470,Wyoming,Townhouse,1.7543859649122806
+2471,Yakima,Condo,1.7543859649122806
+2472,Yakima,Multi-Family (2-4 Unit),1.7543859649122806
+2473,Yakima,Single Family Residential,1.7543859649122806
+2474,Yakima,Townhouse,78.72340425531915
+2475,Yonkers,Condo,1.7543859649122806
+2476,Yonkers,Multi-Family (2-4 Unit),1.7543859649122806
+2477,Yonkers,Single Family Residential,1.7543859649122806
+2478,Yonkers,Townhouse,12.280701754385964
+2479,York,Condo,1.7543859649122806
+2480,York,Multi-Family (2-4 Unit),1.7543859649122806
+2481,York,Single Family Residential,1.7543859649122806
+2482,York,Townhouse,1.7543859649122806
+2483,Ypsilanti,Condo,1.7543859649122806
+2484,Ypsilanti,Multi-Family (2-4 Unit),3.508771929824561
+2485,Ypsilanti,Single Family Residential,1.7543859649122806
+2486,Yuma,Multi-Family (2-4 Unit),24.561403508771928
+2487,Yuma,Single Family Residential,1.7543859649122806

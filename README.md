@@ -41,7 +41,7 @@ repo/
 
 ## Diagramme du système
 
-![Diagramme de Flux de Travail du Système](system.svg)
+![Diagramme de Flux de Travail du Système](system.drawio.svg)
 
 ### Légende
 
